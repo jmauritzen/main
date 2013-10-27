@@ -1,32 +1,355 @@
 <html lang="en">
 
-	<head>
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>My attempt at a website</title>
+
+        <style type="text/css">
+        body {
+            background-color: #FFFFFF;
+            margin:0 15%;
+            font-family: 'Nunito', sans-serif;
+            }
+
+
+        p.abstract{font-style:italic}  
+          
+        nav {
+            
+        }
+
+        header {
+
+            }
+
+        a:link{color:black;text-decoration:none;} 
+        a:visited{color:black;text-decoration:none;}
+        a:hover{color:grey;text-decoration:none;}
+        a:active{color:blue;text-decoration:none;}
+
+
+        ul {
+            list-style-type:none;
+            margin-bottom:30px;
+            }
+
+
+        h1 {
+            background-image:url('title_photo.JPG');
+            color:grey;
+            text-align:left;
+            font-family: 'Nunito', sans-serif;
+            font-weight:normal;
+            font-size:20px;
+            text-transform:lowercase;
+            <!--border-bottom: 2px solid #383838;-->
+           margin:20 0 20 0px;
+           padding:500 30 2 2px;
+            }
+
+        h2  {
+            color:383838;
+            font-size:1em;
+            padding-left:0px;
+            padding-right:0px;
+            margin:20 20 50 0px;
+        }
+
+        h1 a:link, h2 a:link {
+            color:#FFFFFF;
+            text-decoration:none;
+            }      /* unvisited link */
+        h1 a:visited, h2 a:visited {
+            color:#FFFFFF;
+            text-decoration:none;
+             }  /* visited link */
+        h1 a:hover, h2 a:hover {color:grey;}  /* mouse over link */
+        h1 a:active, h2 a:active {color:#0000FF;}  /* selected link */
+
+        h2 ul {
+            margin-left:20px;
+        }  
+
+        section#cv h2 {
+            background-image:url('cv_title.jpg');
+            padding:500 30 2 2px;
+            }
+
+            section#cv h2 ul {
+                margin-left:500px;
+            }
+        section#research h2 {
+            background-image:url('research_title.jpg');
+            padding:500 30 2 2px;
+            }
+
+
+        section#blog h2 {
+            background-image:url('blog_title.jpg');
+            padding:630 30 2 2px;
+            }
+
+       
+        h3{
+            margin:0 20 10 0px;
+            }
+
+
+        h4 {
+            margin-top:3px;
+            margin-bottom:10px;
+            padding-bottom:0px;
+            padding-top:0px;
+            
+        }
+
+        article {
+            margin-bottom:100px;
+        }
+        
+        </style>
         <meta name="viewport" content="width=device-width">
 
+</head>
 
-        <!-- Custom CSS -->
 
-    </head>
 
-    <body>
-        <div class="main">
+<body>
+<div class="main">
 
-            <header>
-  <a href="http://sites.google.com/jmaurit">Johannes Mauritzen</a> / <span>Week </span>
 
-</header>
+<header>
 
-<h1>Johannes Mauritzen's Personal Website</h1>
 
-<div class="lesson">
-  <h2>My CV</h2>
 
+ </header>
+
+<h1>
+
+<nav> 
+    <ul>
+        <li><a href="#bio">bio</a></li>
+        <li><a href="#cv">cv</a></li>
+        <li><a href="#research">research</a></li>
+        <li><a href="#blog">simple minded blog</a></li>
+    </ul>
+</nav>
+</h1>
+ 
+
+<section id="bio">
+<ul>
+<li><h3>A few things about me</h3></li>
+<li>I do empirical research in energy markets </li>
+<li>I am a Norwegian citizen, but grew up mostly in the US</li>
+<li>I currently work as a post doctor at the Norwegian School of Economics in Bergen</li>
+<li>Previously I had a post doc at a research institute in Stockhom</li>
+<li>Besides Bergen and Stockholm, I have lived in Seattle, New York, Minneosta and a small town in Trøndelag (mid norway).</li>
+<li>I enjoy reading, writing (not academic stuff), hiking, city bicyling, raquet sports and playing folk songs on the guitar</li>
+</ul>
+
+
+</section>
+
+<section id="cv">
+<h2>
+<nav> 
+    <ul>
+        <li><a href="#papers">papers</a></li>
+        <li><a href="#positions">positions</a></li>
+        <li><a href="#education">education</a></li>       
+    </ul>
+</nav>
+</h2>
 <p> <a href="https://docs.google.com/file/d/0B6bCq_4ajKKMOHd3LWc2QkFqbXM/edit" >
 In PDF Form </a> </p>
 
-<h4>My Picture</h4>
+<ul>
+    <li id="papers"> <h3>Peer Reviewed Publications</h3></li> 
+    <ul>  
 
-<p><img src="/johannes.PNG"> </p>
+        <li>The Decision to Scrap a Wind Turbine: Policy changes, scrapping incentives and why windturbines in good locations get scrapped first. The Energy Journal, Vol. 35, No. 2. 2014 </li>
+
+        <li> Dead Battery? Wind Power, the Spot Market, and Hydropower Interaction in the Nordic  Electricity Market. The Energy Journal, Vol. 34, No. 1. 2013 </li>
+    </ul>
+ 
+
+    <li> <h3>Conference Proceedings </h3></li> 
+    <ul> 
+        <li>What Happens When it's Windy in Denmark? How Wind Power Affects Price Variability in the Nordic Electricity Market. International Association for Energy Economics International Conference, Stockholm 2011. (Student Paper Award Recipient)</li> 
+    </ul>
+
+ 
+
+    <li> <h3>Working Papers </h3></li> 
+    <ul>
+        <li>Now or Later? Trading wind power closer to real-time and how poorly designed subsides lead to higher balancing costs. (Submitted for review)  </li>
+
+        <li>The Silver Lining of Price Spikes: How electricity price spikes can help overcome the energy efficiency gap. (Submitted for review)  </li>
+    </ul>
+ 
+
+    <li> <h3>Letters and Articles in Popular Press  </h3></li> 
+    <ul> 
+        <li>Too generous to Norway. The Economist, letters, February 16th, 2013 </li>
+        <li>Electric cars are being mass-produced. Financial Times, letters, November 5th, 2012 </li>
+        <li>Europe should let China subsidize its energy production. Financial Times, Letters, September 11th, 2012  </li>
+
+        <li><h3>In Norwegian: </h3></li>
+        <li>Livet etter oljen. Bergens Tidende, July 31st, 2013  </li>
+        <li>Bevar Bryggen, Bygg Bybanen. Bergens Tidende, March 30th, 2013 </li>
+        <li>Norge er sykkelversting i Nord-Europa, Aftenposten, September 20th, 2012 </li>
+        <li>Bygg Høyere!, Aftenposten, August 10th, 2012</li>
+    </ul>
+
+    <li id="positions"><h3>Current Posistion</h3></li>
+    <ul> 
+        <li><h4>Postdoctoral Fellow</h4></li>
+        <li>Department of Business and Management Science</li>
+        <li> NHH Norwegian School of Economics</li>
+        <li> Helleveien 30, 5045 Bergen, Norway</li>
+    </ul>
+    
+    <li><h3>Past Positions</h3></li>
+        <ul>
+            <li><h4>Postdoctoral Fellow </h4></li>
+            <li>Research Institute of Industrial Economics</li>
+            <li>Stockholm, Sweden</li>
+        </ul>
+        <ul>
+            <li><h4>Research Scholar and PhD Student</h4></li>
+            <li>Department of Business and Management Science</li>
+            <li>NHH Norwegian School of Economics</li>
+        </ul>
+        <ul>
+            <li><h4>Research Assistant</h4></li>
+            <li>Center For Reinventing Public Education</li>
+            <li>University of Washington, Seattle</li>
+        </ul>   
+        <ul>
+            <li><h4>Research Analyst</h4></li>
+            <li>Levy Forecasting Center</li>
+            <li>Mount Kisco, NY</li>
+        </ul>
+
+    <li id="education"><h3>Education</h3></li> 
+        <ul>
+            <li><h4>PhD, May 2012  </h4></li>
+            <li>Dissertation: Windonomics: Essays on Wind Power in the Nordic Electricity Market</li> 
+            <li>Department of Finance and Management Science </li>
+            <li>NHH Norwegian School of Economics </li>
+            <li>Bergen, Norway</li>
+        </ul>
+        <ul> 
+            <li><h4>Masters of Arts in Economics, June 2008 </h4> </li>
+            <li>University of Washington, Seattle, WA  </li>
+        </ul> 
+        <ul> 
+            <li><h4>Bachelor of Arts, May 2004, Summa Cum Laude  </h4></li>
+            <li>St. Olaf College, Northfield, MN </li>
+            <li>Majors: Mathematics and History</li>
+        </ul>    
+ 
+</ul>
+
+</section>
+
+
+
+<section id="research"> 
+<h2>
+<nav> 
+    <ul>
+        <li><a href="#wind_var">wind power and price variation</a></li>
+        <li><a href="#hydro">wind and hydro power interaction</a></li>
+        <li><a href="#scrapping">scrapping of wind turbines</a></li>
+        <li><a href="#elbas">wind and hour ahead markets</a></li>
+        <li><a href="#price_spikes">price spikes and energy efficiency</a></li>
+    </ul>
+</nav>
+</h2>
+
+    <article id="wind_var"> 
+        <h3> <a href="https://docs.google.com/open?id=0B6bCq_4ajKKMYzZMUTN3VEpqSWs"> What Happens When it's Windy in Denmark? How Wind Power Affects Price Variability in the Nordic Electricity Market </a> </h3>
+        <h4>Conference Proceedings, International Association for Energy Economics International Conference, Stockholm 2011</h4>
+        <h4>Abstract</h4>
+        <p class="abstract">This paper attempts to test the the variability of wholesale electricity prices in the spot market. I use a simple distributed lag econometric model and and daily data from Denmark, which is one of the few places with a long history of signifcant wind power penetration. I show that wind power has the effect of reducing intra-day variability but that this result only partially carries over to price variation over weekly time windows. I suggest that the reduction in price variability in turn is due to a steeper supply schedule at peak-load times </p>
+
+    </article>
+
+    <article id="hydro">
+        <h3>Dead Battery? Wind Power, the Spot Market, and Hydropower Interaction in the Nordic  Electricity Market </h3>
+        <h4>The Energy Journal, Vol. 34, No. 1. 2013</h4>
+        <h4>Abstract</h4>
+        <p></p>
+    </article>
+
+    <article id="scrapping"> 
+        <h3>The Decision to Scrap a Wind Turbine: Policy changes, scrapping incentives and why windturbines in good locations get scrapped first</h3>
+        <h4>The Energy Journal, Vol. 35, No. 2. 2014</h4>
+        <h4>Abstract</h4>
+        <p class="abstract"></p>
+    </article>
+
+    <article id="elbas">
+        <h3>Now or Later? Trading wind power closer to real-time and how poorly designed subsides lead to higher balancing costs</h3>
+        <h4>Working paper</h4>
+        <h4>Abstract</h4>
+        <p class="abstract"></p>
+    </article>
+
+
+    <article id="price_spikes">
+        <h3>The Silver Lining of Price Spikes: How electricity price spikes can help overcome the energy efficiency gap. (Submitted for review) </h3>
+        <h4>Working Paper</h4>
+        <h4>Abstract</h4>
+        <p class="abstract"></p>
+    </article>
+
+</section>
+ <section id="blog">
+    <h2></h2>
+<article id="The_Electric_Car_in_Norway">
+    <h3>The Electric Car in Norway:Fully Charged</h3>
+<p> The buzz around the corridors of my workplace has recently been about sports cars.  Perhaps not that surprising given the number of men in their 50s who work in my department.  But one car in particular, the Tesla Model S, is generating most of the buzz.  I know of two who have already placed orders and I wouldn’t be surprised if more followed.  The Tesla is a big, fast and expensive sports car.  But it is also fully electric and so it gets the label of “green” and benefits from some generous Norwegian government incentives.</p>  
+
+ <p>Getting people to switch from gasoline and diesel cars to electric is probably, on the whole, a good thing.  But heavily subsidizing sports cars for the well-off has its obvious problems.  The point of the heavy subsidies was to kick-start the market for electrics.  In Norway, that has been largely accomplished. The Government should, and likely will begin to roll-back the incentives. </p> 
+
+ <p>The incentives for purchasing an electrical vehicles in Norway may be the most generous in the world.  Electric car buyers avoid the hefty taxes and fees that will typically double the price of a car.  In addition electric car drivers avoid road tolls and even get free passage on ferries.  And then there is the fuel cost - Norway has some of the highest gasoline and diesel prices in the world, but electricity prices are moderate. More so, free charging is available in many locations.</p>  
+
+ <p>Back when electric cars were little more than supercharged golf carts from small producers such as Reva and Think!, these generous incentives led a few early-adaptors to start zipping around Norway’s cities.  But now that major manufacturers have begun making electric cars that are similar in size and utility to normal gas-powered cars, sales have taken off.  The electric Nissan Leaf has been one of the best-selling cars in Norway in the last year - just behind VW’s Golf.  Now that the Tesla has gone on sale, it has also become one of the most sold cars in Norway. </p>
+
+ <p>Electric cars have a solid foothold in Norway, and the infrastructure for them - like charging stations - are spreading quickly.  But that means that much of the reasoning for subsidies is also disappearing. Electric cars are not good for the environment, despite what their manufacturers might want you to believe.  They are only less bad for the environment than their gas or diesel sipping peers.  They still create congestion on roads and in dense city centres.  They pose a danger to pedestrians and cyclists - maybe even more than noisier petrol cars.  And they cause emissions, though indirectly through the electricity they consume. </p> 
+
+<p>There is also the issue of fairness.  A wealthy individual looking to buy a second, electric car can skip import and value-added taxes.  A student looking to buy a bicycle gets no such help.  More so, if the government’s aim is to reduce pollution and improve the environment they would likely get much more bang for their buck by investing in better public transport and bicycling infrastructure.  </p>
+</article>
+
+<article id="silver_lining_price_spikes">
+    <h3>The Silver Lining of Price Spikes</h3>
+<p>I recently put out a NHH discussion paper titled “The Silver Lining of Price Spikes: How price spikes can help overcome the energy efficiency gap.”  As the title suggests, the research question revolves around what is alternatively called the energy efficiency gap or paradox, which is the observation that consumers and businesses do not always invest in energy efficiency even when the returns to doing so appear to be ample. </p> 
+
+<p> The inspiration for the article came from my earlier master student Louis Pauchon who wrote a master thesis comparing energy efficiency policies in both Norway and France.  A central part of his argument was that efforts to improve energy efficiency were more successful in Norway compared to France because of the greater variability of prices in Norway.  He presented a chart showing a correlation between heat pump installations and seasonal variation in prices.  I suggested that he also look to see if there were a correlation between electricity prices and google searches for heat pumps in Norway.  He produced a chart that appeared to show just that. </p>
+
+<p> My paper narrows in on the informational role that price spikes might play.  I also use data on google searches and prices in Norway as well as a few other time series.  I argue that price spikes, by creating attention around prices and energy efficiency, can serve a useful role. </p> 
+
+<p> To support my argument I first needed to define a price spike - something that is harder in practice than it might first appear.  No generally recognised definition of a price spike exists.  I skirted around the issue - defining a range of price spikes.  Essentially I first smoothed the prices to various degrees, and then calculated deviations from these smoothed curves. </p> 
+
+<p> I then ran regressions to see if I could say with confidence that there really was a correlation between price spikes and searches for heat pumps.  The results indicated that there was good reason to believe that a strong correlation exists between price spikes and searches for heat pumps no matter how narrowly I defined price spikes.</p>  
+
+<p> The question then remains whether it is correct to give this correlation the interpretation of it being a causal informational affect.  First, the correlations could simply reflect that demand for heat pumps go up when prices go up - a conclusion hardly worth a research paper. </p>
+
+<p> To deal with this I included the smoothed terms in the regressions and argued that this should capture the price-demand effect since consumers essentially pay a smoothed price - at a minimum a monthly average.  More so, as I narrow the definition of price spikes, then the estimated effect on the deviations effect should decrease if only the price-demand effect was at play.  But the opposite appears to happen - the estimated effect actually tended to become bigger the more narrowly price spikes were defined. </p> 
+
+<p>This was what I would consider a fun paper to write.  The methods and conclusions were all relatively simple, but the point that emerges has - as far as I know - not been discussed in the literature.  It is not clear to me if there are any important policy implications from this research.  If I were forced to point to something it might be for politicians and policymakers to be a bit more relaxed about price spikes.  The news and media attention that they generate - while uncomfortable for politicians - may be good for an energy efficient society.</p>
+</article>
+
+</section>
+
+<footer><h2>Contact</h2>
+<p>
+    Contact me by my gmail account, jmaurit
+</p></footer>
+
