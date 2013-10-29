@@ -10,19 +10,8 @@
                          
             }
 
-        section {
-            margin:0 0 10 0%; 
-        }
-
-        div {
-            margin:0 0 200 0px; 
-        }
 
         p.abstract{font-style:italic;}  
-          
-        nav {
-            
-        }
 
         header {
 
@@ -115,5 +104,8 @@
         }
 
         article {
-            margin:0 15 10 15%;
+            margin-left:20%;
+            margin-right:20%;
+            margin-top:5%; 
+            margin-bottom:5%; 
         }
