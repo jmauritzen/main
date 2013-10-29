@@ -3,114 +3,11 @@
 <head>
     <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
 
+    <link rel="stylesheet" type="text/css" href="website.css"/>
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>My attempt at a website</title>
-
-        <style type="text/css">
-        body {
-            background-color: #FFFFFF;
-            margin:0 15%;
-            font-family: 'Nunito', sans-serif;
-            }
-
-
-        p.abstract{font-style:italic}  
-          
-        nav {
-            
-        }
-
-        header {
-
-            }
-
-        a:link{color:black;text-decoration:none;} 
-        a:visited{color:black;text-decoration:none;}
-        a:hover{color:grey;text-decoration:none;}
-        a:active{color:blue;text-decoration:none;}
-
-
-        ul {
-            list-style-type:none;
-            margin-bottom:30px;
-            }
-
-
-        h1 {
-            background-image:url('title_photo.jpg');
-            color:grey;
-            text-align:left;
-            font-family: 'Nunito', sans-serif;
-            font-weight:normal;
-            font-size:20px;
-            text-transform:lowercase;
-            <!--border-bottom: 2px solid #383838;-->
-           margin:20 0 20 0px;
-           padding:500 30 2 2px;
-            }
-
-        h2  {
-            color:383838;
-            font-size:1em;
-            padding-left:0px;
-            padding-right:0px;
-            margin:20 20 50 0px;
-        }
-
-        h1 a:link, h2 a:link {
-            color:#FFFFFF;
-            text-decoration:none;
-            }      /* unvisited link */
-        h1 a:visited, h2 a:visited {
-            color:#FFFFFF;
-            text-decoration:none;
-             }  /* visited link */
-        h1 a:hover, h2 a:hover {color:grey;}  /* mouse over link */
-        h1 a:active, h2 a:active {color:#0000FF;}  /* selected link */
-
-        h2 ul {
-            margin-left:20px;
-        }  
-
-        section#cv h2 {
-            background-image:url('cv_title.jpg');
-            padding:500 30 2 2px;
-            }
-
-            section#cv h2 ul {
-                margin-left:500px;
-            }
-        section#research h2 {
-            background-image:url('research_title.jpg');
-            padding:500 30 2 2px;
-            }
-
-
-        section#blog h2 {
-            background-image:url('blog_title.jpg');
-            padding:630 30 2 2px;
-            }
-
-       
-        h3{
-            margin:0 20 10 0px;
-            }
-
-
-        h4 {
-            margin-top:3px;
-            margin-bottom:10px;
-            padding-bottom:0px;
-            padding-top:0px;
-            
-        }
-
-        article {
-            margin-bottom:100px;
-        }
-        
-        </style>
+        <title>johannes mauritzen's website</title>
         <meta name="viewport" content="width=device-width">
 
 </head>
@@ -138,20 +35,21 @@
 </nav>
 </h1>
  
-
+<div>  
 <section id="bio">
-<ul>
-<li><h3>A few things about me</h3></li>
-<li>I do empirical research in energy markets </li>
-<li>I am a Norwegian citizen, but grew up mostly in the US</li>
-<li>I currently work as a post doctor at the Norwegian School of Economics in Bergen</li>
-<li>Previously I had a post doc at a research institute in Stockhom</li>
-<li>Besides Bergen and Stockholm, I have lived in Seattle, New York, Minneosta and a small town in Trøndelag (mid norway).</li>
-<li>I enjoy reading, writing (not academic stuff), hiking, city bicyling, raquet sports and playing folk songs on the guitar</li>
-</ul>
-
+ 
+    <ul>
+        <li><h3>A few things about me</h3></li>
+        <li>I do empirical research in energy markets </li>
+        <li>I am a Norwegian citizen, but grew up mostly in the US</li>
+        <li>I currently work as a post doctor at the Norwegian School of Economics in Bergen</li>
+        <li>Previously I had a post doc at a research institute in Stockhom</li>
+        <li>Besides Bergen and Stockholm, I have lived in Seattle, New York, Minneosta and a small town in Trøndelag (mid norway).</li>
+        <li>I enjoy reading, writing (not academic stuff), hiking, city bicyling, raquet sports and playing folk songs on the guitar</li>
+    </ul>
 
 </section>
+</div>
 
 <section id="cv">
 <h2>
@@ -163,13 +61,13 @@
     </ul>
 </nav>
 </h2>
-<p> <a href="https://docs.google.com/file/d/0B6bCq_4ajKKMOHd3LWc2QkFqbXM/edit" >
-In PDF Form </a> </p>
+
 
 <ul>
     <li id="papers"> <h3>Peer Reviewed Publications</h3></li> 
     <ul>  
-
+        <li><h4> <a href="https://docs.google.com/file/d/0B6bCq_4ajKKMOHd3LWc2QkFqbXM/edit" >
+        In PDF Form </a> </h4></li>
         <li>The Decision to Scrap a Wind Turbine: Policy changes, scrapping incentives and why windturbines in good locations get scrapped first. The Energy Journal, Vol. 35, No. 2. 2014 </li>
 
         <li> Dead Battery? Wind Power, the Spot Market, and Hydropower Interaction in the Nordic  Electricity Market. The Energy Journal, Vol. 34, No. 1. 2013 </li>
@@ -280,32 +178,43 @@ In PDF Form </a> </p>
     </article>
 
     <article id="hydro">
-        <h3>Dead Battery? Wind Power, the Spot Market, and Hydropower Interaction in the Nordic  Electricity Market </h3>
+        <h3><a href="https://docs.google.com/open?id=0B6bCq_4ajKKMeW9Cd3VSNEhrQWc">Dead Battery? Wind Power, the Spot Market, and Hydropower Interaction in the Nordic  Electricity Market</a> </h3>
         <h4>The Energy Journal, Vol. 34, No. 1. 2013</h4>
         <h4>Abstract</h4>
-        <p></p>
+        <p class="abstract">It is well established within both the economics and power system engineering literature that hydropower can act as a complement to large amounts of intermittent energy. In particular hydropower can act as a “battery” where large amounts of wind power are installed. In this paper I use simple distributed lag models with data from Denmark and Norway. I find that increased wind power in Denmark causes increased marginal exports to Norway and that this effect is larger during periods of net exports when it is difficult to displace local production. Increased wind power can also be shown to slightly reduce prices in southern Norway in the short-run. Finally, I estimate that as much as 40 percent of wind power produced in Denmark is stored in Norwegian hydropower magazines.</p>
     </article>
 
     <article id="scrapping"> 
-        <h3>The Decision to Scrap a Wind Turbine: Policy changes, scrapping incentives and why windturbines in good locations get scrapped first</h3>
+        <h3><a href="https://docs.google.com/open?id=0B6bCq_4ajKKMeW9Cd3VSNEhrQWc">The Decision to Scrap a Wind Turbine: Policy changes, scrapping incentives and why windturbines in good locations get scrapped first</a></h3>
         <h4>The Energy Journal, Vol. 35, No. 2. 2014</h4>
+        <h4><a href="https://docs.google.com/open?id=0B6bCq_4ajKKMSkpUYzVPWE0zR1U">Data</a></h4>
+        <h4><a href="https://docs.google.com/open?id=0B6bCq_4ajKKMWV8xNWRuMWRDdkk">R Code</a></h4>
         <h4>Abstract</h4>
-        <p class="abstract"></p>
+        <p class="abstract">The most common reason for scrapping a wind turbine in Denmark is to make room for a newer turbine. The decision to scrap a wind turbine is then highly dependent on an opportunity cost that comes from the interaction of scarce land resources, technological change and changes in subsidy policy. Using a Cox regression model I show that turbines that are located in areas with better wind resources are at a higher risk of being scrapped. Policies put in place in order to encourage the scrapping of older, poorly placed turbines actually have a larger effect on well- placed turbines.</p>
     </article>
 
     <article id="elbas">
-        <h3>Now or Later? Trading wind power closer to real-time and how poorly designed subsides lead to higher balancing costs</h3>
+        <h3><a href="https://docs.google.com/file/d/0B6bCq_4ajKKMQmpPNWlqN014Y0k/edit?usp=sharing">Now or Later? Trading wind power closer to real-time and how poorly designed subsides lead to higher balancing costs</a></h3>
         <h4>Working paper</h4>
+        <h4><a href="https://docs.google.com/open?id=0B6bCq_4ajKKMRFRmWTZ5Rmxsb0U">Data</a></h4>
+        <h4>R-Code:
+            <a href="https://docs.google.com/open?id=0B6bCq_4ajKKMaHNnbndydi1SOUU">Analysis</a>
+            <a href="https://docs.google.com/file/d/0B6bCq_4ajKKMU3FFQUdSakdfSlU/edit?usp=sharing">Analysis 2
+            </a>
+            <a href="https://docs.google.com/open?id=0B6bCq_4ajKKMajNiLUpCQlplaG8">Conditional Expectations Function</a>
+        </h4>
         <h4>Abstract</h4>
-        <p class="abstract"></p>
+        <p class="abstract">The most important challenge facing many electricity markets is dealing with the increasing penetration of wind power and other intermittent generation. Several simulation studies have pointed to the advantages of trading closer to the time of delivery when large amounts of intermittent power are installed in an electricity system. Using two years of hourly data from Denmark and a simple linear probability model as well as a non-parametric technique, I show that an unexpected relationship exists between shortfalls and surpluses of wind power generation and the probability of trade on the Nordic hour-ahead market, Elbas. Shortfalls increase the probability of trade but surpluses are actually shown to decrease the probability of trade. This result is explained by Danish wind power policies that unintentionally discourages trading on short term markets and in turn likely results in unnecessarily high balancing costs.</p>
     </article>
 
 
     <article id="price_spikes">
-        <h3>The Silver Lining of Price Spikes: How electricity price spikes can help overcome the energy efficiency gap. (Submitted for review) </h3>
+        <h3><a href="https://docs.google.com/open?id=0B6bCq_4ajKKMb0NNLTdSN2dQVU0">The Silver Lining of Price Spikes: How electricity price spikes can help overcome the energy efficiency gap. (Submitted for review)</a> </h3>
         <h4>Working Paper</h4>
+        <h4><a href="https://docs.google.com/file/d/0B6bCq_4ajKKMREc2Q3BWLUlrRWc/edit?usp=sharing">Data</a></h4>
+        <h4><a href="https://docs.google.com/file/d/0B6bCq_4ajKKMclEzOEJycnhQRU0/edit?usp=sharing">R Code</a></h4>
         <h4>Abstract</h4>
-        <p class="abstract"></p>
+        <p class="abstract">Studies have shown that many consumers and businesses fail to invest in energy efficiency improvements despite seemingly ample financial incentives to do so – the so-called energy efficiency gap. Attempts to explain this gap often focus on searching costs, information frictions and behavioral factors. Using data on Norwegian electricity prices and Google searches for heat pumps, I suggest that the inherently spikey nature of many deregulated electricity markets – often seen as a sign of inefficiency– has a strong and significant positive effect on searching for information on energy efficiency goods. I attempt to identify the informational/behavioral effect by using a novel method of measuring spikiness: decomposing the price series into a range of Loess smoothed series and deviations from these curves.</p>
     </article>
 
 </section>

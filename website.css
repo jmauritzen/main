@@ -1,0 +1,119 @@
+    body {
+        background-color: #FFFFFF;
+        margin:0 0%;
+        font-family: 'Nunito', sans-serif;
+        /*background-image:url('background_image.jpg');
+        opacity:30%;
+        background-repeat:no-repeat;
+        background-position:center top;
+        background-attachment:fixed;*/
+                         
+            }
+
+        section {
+            margin:0 0 10 0%; 
+        }
+
+        div {
+            margin:0 0 200 0px; 
+        }
+
+        p.abstract{font-style:italic;}  
+          
+        nav {
+            
+        }
+
+        header {
+
+            }
+
+        a:link{color:black;text-decoration:none;} 
+        a:visited{color:black;text-decoration:none;}
+        a:hover{color:grey;text-decoration:none;}
+        a:active{color:blue;text-decoration:none;}
+
+
+        ul {
+            list-style-type:none;
+            margin:0 15 10 15%;
+            }
+
+        ul ul {
+            margin: 0 0 10 0%;
+            }
+        li {
+            margin: 0 0 0 0%;
+        }
+
+
+
+        h1 {
+            background-image:url('title_photo.jpg');
+            background-position:center top;
+            /*background-repeat:no-repeat;*/
+            color:grey;
+            text-align:left;
+            font-family: 'Nunito', sans-serif;
+            font-weight:normal;
+            font-size:20px;
+            text-transform:lowercase;
+            margin:0 0 30 0px;
+            padding:500 30 50 100px;
+            }
+
+        h2  {
+            color:383838;
+            font-size:1em;
+            padding:500 0 50 0px;
+            margin:0 0 30 0px;
+            opacity:60%;
+            
+        }
+
+        h1 a:link, h2 a:link {
+            color:#FFFFFF;
+            text-decoration:none;
+            }      /* unvisited link */
+        h1 a:visited, h2 a:visited {
+            color:#FFFFFF;
+            text-decoration:none;
+             }  /* visited link */
+        h1 a:hover, h2 a:hover {color:grey;}  /* mouse over link */
+        h1 a:active, h2 a:active {color:#0000FF;}  /* selected link */
+
+        h2 ul {
+           
+        }  
+
+        section#cv h2 {
+            background-image:url('cv_title.jpg');
+            }
+
+        section#cv h2 ul {
+            margin-left:900px;
+            }
+
+        section#research h2 {
+            background-image:url('research_title.jpg');
+            }
+
+
+        section#blog h2 {
+            background-image:url('blog_title.jpg');
+            }
+
+       
+        h3{
+            margin:0 0 0 0%;
+            }
+
+
+        h4 {
+            margin:0 0 0 0%;
+            
+        }
+
+        article {
+            margin:0 15 10 15%;
+        }
