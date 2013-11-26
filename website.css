@@ -21,8 +21,10 @@
             margin: 5% 20%;
         }
 
-        a:link{color:black;text-decoration:none;} 
-        a:visited{color:black;text-decoration:none;}
+        a:link{color:black;text-decoration:none;border-bottom-style:dotted; 
+            border-bottom-width: thin;border-bottom-color: grey;} 
+        a:visited{color:black;text-decoration:none;border-bottom-style:dotted; 
+            border-bottom-width: thin;border-bottom-color: grey;}
         a:hover{color:grey;text-decoration:none;}
         a:active{color:blue;text-decoration:none;}
 
@@ -31,6 +33,11 @@
             list-style-type:circle;
             margin:2% 20%;
             }
+
+        ul h3{
+            list-style-type: none;
+
+        }
 
         ul ul {
             margin: 0 0 5 0%;
@@ -119,4 +126,10 @@
             margin-right:20%;
             margin-top:5%; 
             margin-bottom:5%; 
+        }
+
+
+        #bio img {
+            float: left;
+            margin:0 3em 3em 0;
         }
