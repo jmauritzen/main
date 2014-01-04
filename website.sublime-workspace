@@ -127,22 +127,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 58141,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "website.css",
-			"settings":
-			{
-				"buffer_size": 3059,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -220,6 +204,9 @@
 	},
 	"file_history":
 	[
+		"/Users/johannesmauritzen/website/jmaurit.github.io/index.html",
+		"/Users/johannesmauritzen/website/jmaurit.github.io/website.css",
+		"/Users/johannesmauritzen/website/jmaurit.github.io/git_upload.txt",
 		"/Users/johannesmauritzen/Google Drive/price-spikes/r-price-spikes/AnalysisMay2013.R",
 		"/Users/johannesmauritzen/Google Drive/price-spikes/AnalysisMay2013.R",
 		"/Users/johannesmauritzen/Google Drive/price-spikes/priceSpikeAnalysis.R",
@@ -296,65 +283,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 58141,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31717,
-								31717
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9984.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "website.css",
-					"settings":
-					{
-						"buffer_size": 3059,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								973,
-								973
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 2.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
