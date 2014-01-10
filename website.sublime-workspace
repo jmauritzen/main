@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"background",
+				"background-color"
+			],
+			[
 				"border-bottom-",
 				"border-bottom-width"
 			],
@@ -127,6 +131,54 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 63155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "// js_test.js\n\n",
+			"file": "js_test.js",
+			"file_size": 15,
+			"file_write_time": 1388979603000000,
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Unix",
+				"name": "js_test.js"
+			}
+		},
+		{
+			"contents": "<!-- Javascript -->\n\n<script type=\"text/javascript\">\n\nwindow.addEventListener(\"click\", myFunction)\n\n//First we create an array.\n\n</script>\n\n<!-- or to point to script -->\n\n<script src=\"js_test.js\"></script>",
+			"file": "test.html",
+			"file_size": 280,
+			"file_write_time": 1389201841000000,
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix",
+				"name": "test.html"
+			}
+		},
+		{
+			"file": "website.css",
+			"settings":
+			{
+				"buffer_size": 3318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "git_upload.txt",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -134,6 +186,14 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
 			[
 				"packa",
 				"Package Control: Install Package"
@@ -187,7 +247,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -283,8 +343,145 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 63155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31638,
+								31638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js_test.js",
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"auto_name": "js_test.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.html",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "website.css",
+					"settings":
+					{
+						"buffer_size": 3318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1283,
+								1283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "git_upload.txt",
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
