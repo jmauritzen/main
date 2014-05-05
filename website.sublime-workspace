@@ -135,15 +135,12 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 74547,
+				"buffer_size": 74621,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "// js_test.js\n\n",
 			"file": "js_test.js",
-			"file_size": 15,
-			"file_write_time": 1388979603000000,
 			"settings":
 			{
 				"buffer_size": 15,
@@ -152,13 +149,10 @@
 			}
 		},
 		{
-			"contents": "<!-- Javascript -->\n\n<script type=\"text/javascript\">\n\nwindow.addEventListener(\"click\", myFunction)\n\n//First we create an array.\n\n</script>\n\n<!-- or to point to script -->\n\n<script src=\"js_test.js\"></script>",
 			"file": "test.html",
-			"file_size": 280,
-			"file_write_time": 1389201841000000,
 			"settings":
 			{
-				"buffer_size": 206,
+				"buffer_size": 280,
 				"line_ending": "Unix",
 				"name": "test.html"
 			}
@@ -343,7 +337,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -351,15 +345,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 74547,
+						"buffer_size": 74621,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3955,
-								3955
+								899,
+								899
 							]
 						],
 						"settings":
@@ -369,7 +363,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 12464.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -406,7 +400,7 @@
 					"file": "test.html",
 					"settings":
 					{
-						"buffer_size": 206,
+						"buffer_size": 280,
 						"regions":
 						{
 						},
