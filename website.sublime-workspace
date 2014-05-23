@@ -135,7 +135,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 74621,
+				"buffer_size": 77949,
 				"line_ending": "Unix"
 			}
 		},
@@ -161,7 +161,7 @@
 			"file": "website.css",
 			"settings":
 			{
-				"buffer_size": 3318,
+				"buffer_size": 3538,
 				"line_ending": "Unix"
 			}
 		},
@@ -337,7 +337,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -345,15 +345,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 74621,
+						"buffer_size": 77949,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								899,
-								899
+								37663,
+								37663
 							]
 						],
 						"settings":
@@ -427,15 +427,15 @@
 					"file": "website.css",
 					"settings":
 					{
-						"buffer_size": 3318,
+						"buffer_size": 3538,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1283,
-								1283
+								0,
+								0
 							]
 						],
 						"settings":
