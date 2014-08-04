@@ -127,7 +127,24 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 82587,
+				"buffer_size": 82967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "teaching.html",
+			"settings":
+			{
+				"buffer_size": 1098,
+				"line_ending": "Unix",
+				"name": "teaching.html"
+			}
+		},
+		{
+			"file": "website.css",
+			"settings":
+			{
+				"buffer_size": 3538,
 				"line_ending": "Unix"
 			}
 		}
@@ -321,7 +338,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -329,15 +346,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 82587,
+						"buffer_size": 82967,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								34503,
-								34456
+								5254,
+								5254
 							]
 						],
 						"settings":
@@ -347,7 +364,62 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 11190.0,
+						"translation.y": 2502.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "teaching.html",
+					"settings":
+					{
+						"buffer_size": 1098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1030,
+								1030
+							]
+						],
+						"settings":
+						{
+							"auto_name": "teaching.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 289.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "website.css",
+					"settings":
+					{
+						"buffer_size": 3538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2174.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
