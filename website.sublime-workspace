@@ -127,12 +127,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 89820,
+				"buffer_size": 95186,
 				"line_ending": "Unix"
 			}
 		},
 		{
+			"contents": "<!-- teaching.html -->\n\n<html lang=\"en\">\n\n\n<head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"website.css\"/>\n\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n        <title>johannes mauritzen's website</title>\n        <meta name=\"viewport\" content=\"width=device-width\">\n\n</head>\n\n\n\n<body>\n\n<header>\n</header>\n\n<section id=\"main_menu\"> \n<nav> \n    <ul>\n        <li><a href=\"index.html#bio\">bio</a></li>\n        <li><a href=\"index.html#cv\">cv</a></li>\n        <li><a href=\"index.html#research\">research</a></li>\n        <li><a href=\"teaching.html\">teaching</a></li>\n        <li><a href=\"index.html#blog\">simple minded blog</a></li>\n    </ul>\n</nav>\n</section>\n\n<section id=\"teaching\">\n<!-- <h2> </h2> --> \n\n\n \n    <ul>\n        <h3><li>Course Material for Course:</li></h3>\n        <li><a href=\"bsrs2014.html\">Bergen Summer Research School</a></li>\n    </ul>\n\n</section>\n",
 			"file": "teaching.html",
+			"file_size": 1098,
+			"file_write_time": 1402585868000000,
 			"settings":
 			{
 				"buffer_size": 1098,
@@ -374,15 +377,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 89820,
+						"buffer_size": 95186,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								37099,
-								37099
+								35338,
+								35338
 							]
 						],
 						"settings":
@@ -392,7 +395,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 13902.0,
+						"translation.y": 13087.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -409,8 +412,8 @@
 						"selection":
 						[
 							[
-								1030,
-								1030
+								934,
+								934
 							]
 						],
 						"settings":
@@ -449,7 +452,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2174.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
