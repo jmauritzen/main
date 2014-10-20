@@ -127,7 +127,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 101104,
+				"buffer_size": 101219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "smallscreen.css",
+			"settings":
+			{
+				"buffer_size": 3648,
 				"line_ending": "Unix"
 			}
 		},
@@ -369,7 +377,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -377,15 +385,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 101104,
+						"buffer_size": 101219,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8701,
-								8701
+								90695,
+								90695
 							]
 						],
 						"settings":
@@ -395,13 +403,39 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4188.0,
+						"translation.y": 35287.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "smallscreen.css",
+					"settings":
+					{
+						"buffer_size": 3648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "teaching.html",
 					"settings":
 					{
@@ -430,7 +464,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "website.css",
 					"settings":
 					{
@@ -441,8 +475,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								871,
+								871
 							]
 						],
 						"settings":
@@ -452,7 +486,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 309.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
