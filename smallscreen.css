@@ -16,7 +16,8 @@ body {
         p.abstract{font-style:italic;}  
 
         header {
-
+        	margin: 10 0 10 0%;
+        	background-image:url('title_photo.jpg');
             }
 
         footer {
@@ -37,8 +38,8 @@ body {
         }
         #main_menu ul {
         list-style-type:none;
-        padding: 0;
-        margin: 0px 0 0 0px;
+        padding: ;
+        margin: 10 0 10 0%;
         }   
 
         #main_menu ul li {
@@ -74,7 +75,7 @@ body {
             margin: 0 0 0 0%;
             } 
         li {
-            margin: 1 1 1 0em;
+            margin: 0 0 0 0em;
         }
 
 
@@ -84,10 +85,8 @@ body {
         h2  {
             color:383838;
             font-size:1em;
-            padding:0 0 0 0%;
-            margin: 0 0 0 0%; 
-            /*padding:500 0 50 0px;
-            margin:100 0 100 0px;*/
+            padding:100 0 100 0%;
+            margin: 50 0 50 0%; 
             opacity:60%;
             
         }
@@ -109,31 +108,31 @@ body {
         }  
 
         section#cover h2{
-            /*background-image:url('title_photo.jpg');*/
-            padding:0 0 0 0pc;
+/*            background-image:url('title_photo.jpg');
+*/            padding:0 0 0 0pc;
             margin:0 0 0 0px;
-            /*max-width: 100%;*/
+            max-width: 100%;
         }
 
         section#cv h2 {
             background-image:url('cv_title.jpg');
-            /*max-width: 100%;*/
+            max-width: 100%;
             }
 
         section#cv h2 ul {
             margin-left:0%;
-            /*max-width: 100%;*/
+            max-width: 100%;
             }
 
         section#research h2 {
             background-image:url('research_title.jpg');
-            /*max-width: 100%;*/
+            max-width: 100%;
             }
 
 
         section#blog h2 {
             background-image:url('blog_title.jpg');
-            /*max-width: 100%;*/
+            max-width: 100%;
             }
 
        
@@ -166,7 +165,8 @@ body {
             margin:0 0 0 0%;
         }
 
-        img.resize {
+        img{
+        	display:none;
         	width: 100%;
         	height: auto;
         }
