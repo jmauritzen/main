@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 40369,
+				"buffer_size": 40471,
 				"line_ending": "Unix"
 			}
 		},
@@ -135,9 +135,17 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 77473,
+				"buffer_size": 80904,
 				"line_ending": "Unix",
 				"name": "blog_posts.html"
+			}
+		},
+		{
+			"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -402,15 +410,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 40369,
+						"buffer_size": 40471,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2151,
-								2151
+								37587,
+								37587
 							]
 						],
 						"settings":
@@ -420,7 +428,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1301.0,
+						"translation.y": 16723.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -430,15 +438,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 77473,
+						"buffer_size": 80904,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1893,
-								1893
+								4056,
+								4056
 							]
 						],
 						"settings":
@@ -449,13 +457,39 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 635.0,
+						"translation.y": 1573.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "/Users/johannesmauritzen/website/blog_text.html",
 					"settings":
 					{
@@ -481,7 +515,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "smallscreen.css",
 					"settings":
 					{
@@ -509,7 +543,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "teaching.html",
 					"settings":
 					{
@@ -538,7 +572,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "website.css",
 					"settings":
 					{
