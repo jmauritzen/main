@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 41833,
+				"buffer_size": 42231,
 				"line_ending": "Unix"
 			}
 		},
@@ -135,26 +135,18 @@
 			"file": "python_resources.html",
 			"settings":
 			{
-				"buffer_size": 2751,
+				"buffer_size": 2896,
 				"line_ending": "Unix",
 				"name": "python_resources.html"
 			}
 		},
 		{
-			"file": "markdown_test.md",
+			"file": "data_resources.html",
 			"settings":
 			{
-				"buffer_size": 160,
+				"buffer_size": 10853,
 				"line_ending": "Unix",
-				"name": "markdown_test.md"
-			}
-		},
-		{
-			"file": "markdown_test.html",
-			"settings":
-			{
-				"buffer_size": 25669,
-				"line_ending": "Unix"
+				"name": "data_resources.html"
 			}
 		},
 		{
@@ -169,7 +161,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 88003,
+				"buffer_size": 89416,
 				"line_ending": "Unix"
 			}
 		},
@@ -315,6 +307,8 @@
 	},
 	"file_history":
 	[
+		"/Users/johannesmauritzen/website/jmaurit.github.io/markdown_test.html",
+		"/Users/johannesmauritzen/website/jmaurit.github.io/markdown_test.md",
 		"/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/johannesmauritzen/website/blog_text.html",
 		"/Users/johannesmauritzen/website/jmaurit.github.io/blog_posts.html",
@@ -375,6 +369,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"21st",
 			"SEdata",
 			"elbas_less_spot",
 			"hyp1",
@@ -419,7 +414,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -427,15 +422,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 41833,
+						"buffer_size": 42231,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1316,
-								1273
+								38817,
+								38817
 							]
 						],
 						"settings":
@@ -445,7 +440,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1921.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -455,15 +450,15 @@
 					"file": "python_resources.html",
 					"settings":
 					{
-						"buffer_size": 2751,
+						"buffer_size": 2896,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18,
-								18
+								1128,
+								1128
 							]
 						],
 						"settings":
@@ -474,70 +469,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 751.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "markdown_test.md",
+					"file": "data_resources.html",
 					"settings":
 					{
-						"buffer_size": 160,
+						"buffer_size": 10853,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								1182,
+								1182
 							]
 						],
 						"settings":
 						{
-							"auto_name": "markdown_test.md",
-							"parser": "markdown",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk"
+							"auto_name": "data_resources.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 703.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "markdown_test.html",
-					"settings":
-					{
-						"buffer_size": 25669,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25579,
-								25579
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 30067.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
@@ -563,19 +528,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 88003,
+						"buffer_size": 89416,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3362,
-								3363
+								1968,
+								1968
 							]
 						],
 						"settings":
@@ -585,13 +550,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1594.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "smallscreen.css",
 					"settings":
 					{
@@ -619,7 +584,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "teaching.html",
 					"settings":
 					{
@@ -648,7 +613,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "website.css",
 					"settings":
 					{
