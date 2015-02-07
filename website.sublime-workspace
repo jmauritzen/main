@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 42231,
+				"buffer_size": 42323,
 				"line_ending": "Unix"
 			}
 		},
@@ -161,7 +161,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 89416,
+				"buffer_size": 93679,
 				"line_ending": "Unix"
 			}
 		},
@@ -414,7 +414,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -422,15 +422,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 42231,
+						"buffer_size": 42323,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38817,
-								38817
+								38914,
+								38914
 							]
 						],
 						"settings":
@@ -440,7 +440,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1921.0,
+						"translation.y": 23975.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -469,7 +469,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 751.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -493,7 +493,9 @@
 						"settings":
 						{
 							"auto_name": "data_resources.html",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 703.0,
@@ -532,15 +534,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 89416,
+						"buffer_size": 93679,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1968,
-								1968
+								1246,
+								1246
 							]
 						],
 						"settings":
@@ -550,7 +552,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1594.0,
+						"translation.y": 888.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
