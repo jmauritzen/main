@@ -135,7 +135,7 @@
 			"file": "python_resources.html",
 			"settings":
 			{
-				"buffer_size": 3592,
+				"buffer_size": 3740,
 				"line_ending": "Unix",
 				"name": "python_resources.html"
 			}
@@ -150,18 +150,18 @@
 			}
 		},
 		{
-			"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 63,
+				"buffer_size": 100863,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "blog_posts.html",
+			"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 97752,
+				"buffer_size": 63,
 				"line_ending": "Unix"
 			}
 		},
@@ -414,7 +414,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -440,7 +440,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 24326.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -450,15 +450,15 @@
 					"file": "python_resources.html",
 					"settings":
 					{
-						"buffer_size": 3592,
+						"buffer_size": 3740,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1381,
-								1381
+								1135,
+								1135
 							]
 						],
 						"settings":
@@ -469,7 +469,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1205.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -505,6 +505,34 @@
 				},
 				{
 					"buffer": 3,
+					"file": "blog_posts.html",
+					"settings":
+					{
+						"buffer_size": 100863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4253,
+								3415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2372.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
@@ -525,34 +553,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "blog_posts.html",
-					"settings":
-					{
-						"buffer_size": 97752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4612,
-								4612
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2749.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -637,7 +637,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2437.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
