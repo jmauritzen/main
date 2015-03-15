@@ -134,6 +134,12 @@
             max-width: 100%;
             }
 
+        section#resources h2 {
+            background-image:url('resources_pic.jpg');
+            padding:500 20 200 20pc;
+            max-width: 100%;
+            }
+
        
         h3{
             margin:0 0 0 0%;
