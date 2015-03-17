@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 45069,
+				"buffer_size": 45181,
 				"line_ending": "Unix"
 			}
 		},
@@ -135,9 +135,18 @@
 			"file": "python_resources.html",
 			"settings":
 			{
-				"buffer_size": 3740,
+				"buffer_size": 3912,
 				"line_ending": "Unix",
 				"name": "python_resources.html"
+			}
+		},
+		{
+			"file": "r_resources.html",
+			"settings":
+			{
+				"buffer_size": 1239,
+				"line_ending": "Unix",
+				"name": "r_resources.html"
 			}
 		},
 		{
@@ -153,7 +162,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 100863,
+				"buffer_size": 100891,
 				"line_ending": "Unix"
 			}
 		},
@@ -186,7 +195,7 @@
 			"file": "website.css",
 			"settings":
 			{
-				"buffer_size": 3538,
+				"buffer_size": 3705,
 				"line_ending": "Unix"
 			}
 		}
@@ -414,7 +423,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -422,15 +431,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 45069,
+						"buffer_size": 45181,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38453,
-								38453
+								41248,
+								41248
 							]
 						],
 						"settings":
@@ -440,7 +449,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 28166.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -450,15 +459,15 @@
 					"file": "python_resources.html",
 					"settings":
 					{
-						"buffer_size": 3740,
+						"buffer_size": 3912,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1135,
-								1135
+								1129,
+								1129
 							]
 						],
 						"settings":
@@ -469,13 +478,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1083.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "r_resources.html",
+					"settings":
+					{
+						"buffer_size": 1239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1066,
+								1066
+							]
+						],
+						"settings":
+						{
+							"auto_name": "r_resources.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 638.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "data_resources.html",
 					"settings":
 					{
@@ -486,8 +522,8 @@
 						"selection":
 						[
 							[
-								965,
-								965
+								1204,
+								1109
 							]
 						],
 						"settings":
@@ -498,25 +534,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1161.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 100863,
+						"buffer_size": 100891,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4253,
-								3415
+								1253,
+								1253
 							]
 						],
 						"settings":
@@ -526,13 +562,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2372.0,
+						"translation.y": 1171.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
@@ -558,7 +594,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "smallscreen.css",
 					"settings":
 					{
@@ -586,7 +622,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "teaching.html",
 					"settings":
 					{
@@ -615,19 +651,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "website.css",
 					"settings":
 					{
-						"buffer_size": 3538,
+						"buffer_size": 3705,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								346,
-								346
+								3168,
+								3168
 							]
 						],
 						"settings":
@@ -637,7 +673,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3505.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
