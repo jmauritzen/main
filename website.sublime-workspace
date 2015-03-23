@@ -153,7 +153,7 @@
 			"file": "data_resources.html",
 			"settings":
 			{
-				"buffer_size": 10944,
+				"buffer_size": 11032,
 				"line_ending": "Unix",
 				"name": "data_resources.html"
 			}
@@ -162,7 +162,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 100891,
+				"buffer_size": 105339,
 				"line_ending": "Unix"
 			}
 		},
@@ -423,7 +423,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -449,7 +449,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 28166.0,
+						"translation.y": 861.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -502,7 +502,9 @@
 						"settings":
 						{
 							"auto_name": "r_resources.html",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 638.0,
@@ -515,15 +517,15 @@
 					"file": "data_resources.html",
 					"settings":
 					{
-						"buffer_size": 10944,
+						"buffer_size": 11032,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1204,
-								1109
+								3563,
+								3563
 							]
 						],
 						"settings":
@@ -534,7 +536,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1161.0,
+						"translation.y": 3291.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -544,15 +546,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 100891,
+						"buffer_size": 105339,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1253,
-								1253
+								2007,
+								1251
 							]
 						],
 						"settings":
@@ -562,7 +564,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1171.0,
+						"translation.y": 1327.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
