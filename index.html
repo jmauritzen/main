@@ -61,7 +61,7 @@
     <ul>
         <img src="profile_pic.jpg">
         <h3><li>A few things about me</li></h3>
-        <li>I do empirical research in energy markets and I am currently on the academic job market </li>
+        <li>I do empirical research in energy markets, and more generaly I like working with data, statistics and modeling</li>
         <li>I am a Norwegian citizen, but grew up mostly in the US</li>
         <li>I currently work as a post-doctor at the Norwegian School of Economics in Bergen</li>
         <li>Previously I had a post doc at a research institute in Stockholm</li>
@@ -367,6 +367,20 @@
         <h4><a href="https://docs.google.com/file/d/0B6bCq_4ajKKMclEzOEJycnhQRU0/edit?usp=sharing">R Code</a></h4>
         <h4>Abstract</h4>
         <p class="abstract">Studies have shown that many consumers and businesses fail to invest in energy efficiency improvements despite seemingly ample financial incentives to do so – the so-called energy efficiency gap. Attempts to explain this gap often focus on searching costs, information frictions and behavioral factors. Using data on Norwegian electricity prices and Google searches for heat pumps, I suggest that the inherently spikey nature of many deregulated electricity markets – often seen as a sign of inefficiency– has a strong and significant positive effect on searching for information on energy efficiency goods. I attempt to identify the informational/behavioral effect by using a novel method of measuring spikiness: decomposing the price series into a range of Loess smoothed series and deviations from these curves.</p>
+
+    <h4>Executive Summary</h4>   
+<p>An important and often contentious issue in energy market research has been what has been referred to as the energy efficiency gap.  This is the phenomenon that both consumers and businesses do not seem to invest in energy efficiency despite seemingly ample returns to do so.  Much of the recent litterature on the subject has focused on informational and behavioral factors.  Information on energy efficiency may not be provided in optimal quantities since it has public-good qualities.  In addition, behavioral factors may come into play.  Even if a person has sufficient information on electricity prices and the availability of energy efficiency goods, the effort of calculating out costs and benefits requires attention and mental exertion.</p>
+
+<p>This article attempts to connect the energy efficiency literature, especially its focus on information frictions and behavioral considerations, to characteristics of deregulated electricity market.  In particular I argue that the tendency of deregulated electricity markets to experience occasional price spikes and high short-term volatility may have a silver lining.  When price spikes happen, they can generate news coverage in newspapers, radio and television, providing information on electricity prices as well as a behavioral nudge to search for information on energy efficiency goods.  </p>
+
+<p>Searching costs and other informational frictions have been an active area of theoretical research in economics, however empirical work has been limited due to the difficulty of directly measuring these phenonomen.  However, the widespread adoption of internet search engines has made observing searching behavior possible.  I use data from Google, the leading search engine in Europe and North America, to study the relationship between electricity market price spikes and searches for energy efficiency goods. </p> 
+
+<p>I use the case of Norwegian wholesale electricity prices and searches for electric heat pumps.  In Norway, heating is the largest single use of electricity by households. In turn, one of the most significant energy efficiency improvements a household can make is to switch from electric panel heaters to more efficient electric heat pumps.</p>  
+
+<p>A challenge is how to define price-spikes as opposed to normal price variation.  I side-step this issue by creating measures of a range of “spikiness.”  I take the difference between the actual price series and a smoothed series where the fit is varied. Spikiness is measured, on the one extreme, as brief deviations from a closely fitted curve to, at the other extreme, all deviations from an overall quadratic trend line.</p>  
+ 
+<p>I run regressions of searches for heat pumps on the range of the price-spike series.  I control for weather as well as hydropower conditions.  I also include a measure of smoothed prices that proxies for the actual price effect as most consumers pay retail prices that are based on monthly averages of wholesale prices.  I find large positive and significant effects of positive price spikes for the full range of “spikiness.”  Results are especially large at the narrowest definition of price spikes – representing large and short-lived price spikes that can be shown to generate the most media attention.</p>  
+
     </article>
 
     <article id="market_power">
@@ -382,18 +396,33 @@
     </article>
 
     <article id="oil_prices">
-        <h3><a href="https://drive.google.com/file/d/0B6bCq_4ajKKMa2l2RE00Y1F5T28/edit?usp=sharing">The effect of oil prices on offshore production: evidence from the Norwegian Continental Shelf. (Revise and resubmit, Energy Journal)</a></h3>
+        <h3><a href="https://github.com/jmaurit/oil_prices/blob/master/oil_prices_rr.pdf">The effect of oil prices on offshore production: evidence from the Norwegian Continental Shelf. (Revise and resubmit, Energy Journal)</a></h3>
         <h4>Working Paper</h4>
-        <h4><a href="https://drive.google.com/file/d/0B6bCq_4ajKKMQVBYYWEtdWNjZGs/edit?usp=sharing">Data</a></h4>
-        <h4>R-code: 
-            <a href="https://drive.google.com/file/d/0B6bCq_4ajKKMV3VxSERqWkl5aVk/edit?usp=sharing">Descriptives</a>
-            <a href="https://drive.google.com/file/d/0B6bCq_4ajKKMbWU4anBHZzVWTnM/edit?usp=sharing">Modeling Prep</a>
-            <a href="https://drive.google.com/file/d/0B6bCq_4ajKKMSjRSWG1pb2prZEE/edit?usp=sharing">Modeling</a></h4>
-            <h4 id="oil_price_sim"><a href="https://github.com/jmaurit/rOil/blob/master/presentations/simulation_text.pdf?raw=true">Online Appendix: Monte Carlo Experiment</a></h4>
-            <h4> <a href="https://raw.githubusercontent.com/jmaurit/rOil/master/simulation.r">Simulation R code</a></h4>
+        <h4><a href="https://github.com/jmaurit/oil_prices/blob/master/mc_sim.pdf">Online appendix</a> </h4>
+        <h4><a href="https://github.com/jmaurit/oil_prices/blob/master/rr_analysis_1.r">R-code</a></h4> 
+        <h4><a href="https://github.com/jmaurit/oil_prices/blob/master/data/prod_data.csv">Data</a></h4>
+            
         <h4>Abstract</h4>
         <p class="abstract">  
             I use detailed field-level data on Norwegian off-shore oil field production and a semi-parametric additive model to control for the production profile of fields to estimate the effect of oil prices on production.  I find no significant evidence of a concurrent reaction of field production to oil prices, though a slight lagged effect is found of the magnitude of approximately 2 to 4\% for a 10 dollar per barrel increase in the real price of oil.  Most of this effect appears to come in the planning phase of a field's development.</p>
+
+        <h4>Executive Summary</h4>
+        <p class = "executive summary"> 
+<p>For most of the last century, crude oil has been the world's single most important and valuable fuel source. Naturally, questions of how the oil price affects the world economy as well as how oil production reacts to the oil price have been fundamental topics in economics. However, given the importance of the topic, surprisingly little is known about how production reacts to the oil price at the field level. The few field-level studies that do exist, look at onshore fields. However, challenging offshore fields, which make up an increasing share of world oil production, are substantially different in character. </p>
+
+<p>This gap in the literature can partly be explained by a dearth of detailed field level data. Another roadblock is the highly non-linear nature of the production data that results from the engineering and geo-physical forces involved in production from offshore wells.  This data is not well modeled by standard linear econometric tools. </p>
+
+<p>In this article I use detailed field-level data from the Norwegian Continental Shelf. To control for the non-linear production profile I use a semi-parametric model within the Generalized Additive Model frameworks. At a basic conceptual level, I use a smoothed function to control for the bell-shaped production curve that is common to most of the oil fields, using the remaining variation to estimate the coefficients on the concurrent oil price and its lags. 
+</p>
+
+<p>While a simple hotelling model would indicate that changes in oil prices should lead producers to dynamically optimize the timing of extraction, and in turn immediately alter production, my main results indicate that oil prices have no significant concurrent effect on oil production. A slight lagged effect is estimated at lags of between 1 to 4 years. </p>
+
+<p>These results are consistent with an understanding of the offshore petroleum industry as having extremely high fixed and operating costs. Maintaining spare capacity in order to react to changes in the oil price is likely prohibitively expensive. Instead, increases in the oil price lead to more investment, which has an effect on production with a significant lag.</p>
+
+<p>The findings in this paper can provide some guidance on the effects of the recent steep fall in the oil price on Norwegian production, as well as production from other offshore areas. The results indicate that the recent fall in prices is unlikely to have major ramifications for production in existing fields.  Anecdotal evidence however suggests that searching and exploration are being curtailed, thus the effects on total future production could be significant by way of fewer new field developments.</p> 
+
+<p>Finally, the modest estimated effect of prices on production adds weight to the argument of James Hamilton that most of the increased supply of oil that comes from higher prices is from expanding the geographic and technological boundaries of oil production.  For example exploration of deep-water oil deposits off the coast of Brazil and extraction of oil sands in western Canada.</p>
+    </p>
      
     </article>
 
