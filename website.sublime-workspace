@@ -135,7 +135,7 @@
 			"file": "python_resources.html",
 			"settings":
 			{
-				"buffer_size": 4137,
+				"buffer_size": 4362,
 				"line_ending": "Unix",
 				"name": "python_resources.html"
 			}
@@ -153,7 +153,7 @@
 			"file": "data_resources.html",
 			"settings":
 			{
-				"buffer_size": 11115,
+				"buffer_size": 11251,
 				"line_ending": "Unix",
 				"name": "data_resources.html"
 			}
@@ -162,7 +162,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 108023,
+				"buffer_size": 110303,
 				"line_ending": "Unix"
 			}
 		},
@@ -449,7 +449,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 30654.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -459,15 +459,15 @@
 					"file": "python_resources.html",
 					"settings":
 					{
-						"buffer_size": 4137,
+						"buffer_size": 4362,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1311,
-								1311
+								1536,
+								1536
 							]
 						],
 						"settings":
@@ -478,7 +478,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 977.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -507,7 +507,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 732.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -517,15 +517,15 @@
 					"file": "data_resources.html",
 					"settings":
 					{
-						"buffer_size": 11115,
+						"buffer_size": 11251,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3574,
+								3574
 							]
 						],
 						"settings":
@@ -536,7 +536,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4618.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -546,15 +546,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 108023,
+						"buffer_size": 110303,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1472,
-								1472
+								3080,
+								3080
 							]
 						],
 						"settings":
@@ -564,7 +564,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2625.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
