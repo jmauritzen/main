@@ -46,6 +46,32 @@
 
 </article> -->
 
+<article id="review_doing_bayes">
+<h3>Review of John Kruscke's Doing Bayesian Data Analysis - aka "The Puppy Book"</h3>
+<h3>July 23rd, 2015</h3> 
+
+<p>Doing Bayesian Data Analysis is sometimes referred to as “the puppy book.” This is a direct reference to the pictures of the adorable puppies on the front cover. The puppies are, in turn, a strong signal that this is not a book meant for the hardcore mathematician and statistician looking for a rigorous guide to Bayesian statistical theory.</p> 
+
+<p>This is a book for your run-of-the-mill applied researcher who has heard about Bayesian analysis and statistics, and would like to learn more about it and, importantly, how to do it. The book serves this purpose well. It provides the basic formulas and concepts of Bayesian analysis, and then provides plenty of detailed explanations, examples and code in how to do a range of analysis. </p>
+
+<p>As far as mathematics texts go - the book is chatty. Among technical types, this is not always a compliment. But I liked the long discussions that explained - in words - the logic of the models and results. For me, being able to explain, intuitively and in plain english, is an important part of a feeling of understanding mathematics. In that way, I felt reading through this book helped to clarify a lot of concepts that I was aware of from before, but that had felt somewhat vague.  
+</p>
+
+<p>The “chatty” style is especially important for Bayesian analysis because it reveals one of the main strengths of Bayesian methods - their intuitive appeal. Bayesian methods approach probability and uncertainty in a way that is natural and intuitive to how many people think of those concepts. In the frequentist tradition, the goal is to estimate some theoretical “true” parameter value, where uncertainty is represented as the randomness that comes from repeated draws of a sample of data. This theoretical construct is pretty abstract. In Bayesian analysis, the parameters are themselves uncertain, and the goal is to estimate an appropriate distribution for those parameters. Straighforward. </p> 
+
+<p>Compared to other texts and tutorials on Bayesian analysis that I have read, Doing Bayes unapologetically focuses on teaching modern Markov Chain Monte Carlo (MCMC) simulation tools rather than spending much time on solving explicit analytic solutions or using grid approximations. While there may be some trade-off in getting a mathematically deep understanding of Bayesian methods, the book clearly is focused on those wishing to do Bayesian analysis, rather than understanding the minutia of the underlying theory. The flexibility and relative ease-of-use of simulation methods make it a natural focus point.</p> 
+
+<p>Kruschke uses R and the Bayesian simulation language JAGS for most of the examples, but also provides some instruction for using the newer STAN. By a lot of accounts, STAN is on the cutting edge, and in some ways is also easier to use than JAGS. Therefor in the examples I tried to work out, I focused on using STAN - which has a solid and easy to follow reference manual. STAN is new and still under development, so I understand why the author chose to use the more stable JAGS, but I would imagine that a second edition will move in the direction of using STAN, and I would recommend anyone interested in learning Bayesian simulation software to start with STAN.</p> 
+
+<p>Kruschke is also not shy about boasting of the advantages of Bayesian analysis over typical frequentist hypothesis testing methods. A lot of this was good - and the book includes some of the best explanations and motivations for using Bayesian analysis that I have read. </p>
+
+<p>Yet Kruschke seems also a bit too quick to overlook the advantages of approximation methods based on a frequentist viewpoint. Andrew Gelman - also a strong proponent of Bayesian methods - recommends, for example, using the quick and efficient approximation methods for hierarchical models to zero-in on an appropriate specification before putting together a fully Bayesian model - which can be more time consuming to both set-up and execute.</p> 
+
+<p>More so, though plenty of examples exist of a Bayesian analysis giving different and potentially better answers than estimation by, say, maximum likelihood, in most situations the answers the different methods give will be similar. Bayesian analysis has some strong advantages over traditional frequentist tools, but the best advice still seems to be: use the methods that best solve the problem. </p> 
+
+
+</article>
+
 <article id="falling_oil_prices">
 <h3>Falling oil prices don't hurt renewables, they help them</h3>
 <h3>May 29th, 2015</h3> 
