@@ -127,8 +127,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 53761,
+				"buffer_size": 53743,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cv_new.tex",
+			"settings":
+			{
+				"buffer_size": 13793,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -153,7 +161,7 @@
 			"file": "data_resources.html",
 			"settings":
 			{
-				"buffer_size": 11779,
+				"buffer_size": 11900,
 				"line_ending": "Unix",
 				"name": "data_resources.html"
 			}
@@ -433,15 +441,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 53761,
+						"buffer_size": 53743,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5177,
-								5177
+								38873,
+								38873
 							]
 						],
 						"settings":
@@ -451,13 +459,41 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9792.0,
+						"translation.y": 34923.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "cv_new.tex",
+					"settings":
+					{
+						"buffer_size": 13793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2317,
+								2317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "python_resources.html",
 					"settings":
 					{
@@ -486,7 +522,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "r_resources.html",
 					"settings":
 					{
@@ -515,24 +551,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "data_resources.html",
 					"settings":
 					{
-						"buffer_size": 11779,
+						"buffer_size": 11900,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5927,
-								5927
+								7420,
+								7420
 							]
 						],
 						"settings":
 						{
 							"auto_name": "data_resources.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11001.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "blog_posts.html",
+					"settings":
+					{
+						"buffer_size": 121837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1120,
+								1120
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -544,35 +608,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "blog_posts.html",
-					"settings":
-					{
-						"buffer_size": 121837,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1221,
-								1221
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1528.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
@@ -598,7 +634,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "smallscreen.css",
 					"settings":
 					{
@@ -626,7 +662,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "teaching.html",
 					"settings":
 					{
@@ -655,7 +691,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "website.css",
 					"settings":
 					{
@@ -735,6 +771,10 @@
 	"output.git-remote":
 	{
 		"height": 124.0
+	},
+	"output.latex_log":
+	{
+		"height": 208.0
 	},
 	"output.markdown":
 	{
