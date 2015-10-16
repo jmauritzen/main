@@ -134,6 +134,12 @@
             max-width: 100%;
             }
 
+        section#blog img {
+            float: center;
+            padding:10 10 10 0pc;
+            margin:50 50 50 5em;
+        }
+
         section#resources h2 {
             background-image:url('resources_pic.jpg');
             padding:500 20 200 20pc;
