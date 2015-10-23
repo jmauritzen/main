@@ -135,7 +135,7 @@
 			"file": "website.css",
 			"settings":
 			{
-				"buffer_size": 3740,
+				"buffer_size": 3872,
 				"line_ending": "Unix"
 			}
 		},
@@ -178,7 +178,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 121837,
+				"buffer_size": 124204,
 				"line_ending": "Unix"
 			}
 		},
@@ -386,6 +386,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hydro_capacity_year",
 			"h3",
 			"21st",
 			"SEdata",
@@ -433,7 +434,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -448,8 +449,8 @@
 						"selection":
 						[
 							[
-								6612,
-								6612
+								1549,
+								1578
 							]
 						],
 						"settings":
@@ -459,7 +460,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7311.0,
+						"translation.y": 2222.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -469,15 +470,15 @@
 					"file": "website.css",
 					"settings":
 					{
-						"buffer_size": 3740,
+						"buffer_size": 3872,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3212,
-								3212
+								2922,
+								2922
 							]
 						],
 						"settings":
@@ -487,7 +488,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4257.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -544,7 +545,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1745.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -612,15 +613,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 121837,
+						"buffer_size": 124204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1120,
-								1120
+								1955,
+								1955
 							]
 						],
 						"settings":
@@ -630,7 +631,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2549.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

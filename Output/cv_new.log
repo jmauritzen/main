@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.11)  28 SEP 2015 09:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.11)  23 OCT 2015 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -195,7 +195,7 @@ Missing character: There is no ¸ in font cmti10!
 Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¸ in font cmti10!
 
-Overfull \hbox (4.20102pt too wide) in paragraph at lines 109--109
+Overfull \hbox (4.20102pt too wide) in paragraph at lines 110--110
 []\OT1/cmr/bx/n/10 PRESENTATIONS  
  []
 
@@ -204,58 +204,58 @@ Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no “ in font cmti10!
 
-Overfull \hbox (1.6177pt too wide) in paragraph at lines 163--164
+Overfull \hbox (1.6177pt too wide) in paragraph at lines 164--165
 []\OT1/cmr/m/n/10 Arild Huit-feldt og Torgeir Persen, NHH. \OT1/cmr/m/it/10 Re-
 alop-sjon-s-anal-yse av Vin-d-kraftverk
  []
 
 [3]
-Overfull \hbox (1.79004pt too wide) in paragraph at lines 165--166
+Overfull \hbox (1.79004pt too wide) in paragraph at lines 166--167
 []\OT1/cmr/m/n/10 Arve Tun-dal and Mari Hougsn^^Zs, NHH. \OT1/cmr/m/it/10 Kost-
 nad-s-anal-yse: Hy-dro Alu-minium
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--178
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--183
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--189
+Underfull \hbox (badness 10000) in paragraph at lines 186--190
 
  []
 
 
-Overfull \hbox (1.45103pt too wide) in paragraph at lines 196--196
+Overfull \hbox (1.45103pt too wide) in paragraph at lines 197--197
 []\OT1/cmr/bx/n/10 PROGRAMMING  
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 222--229
+Underfull \hbox (badness 10000) in paragraph at lines 223--230
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--236
+Underfull \hbox (badness 10000) in paragraph at lines 231--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--244
+Underfull \hbox (badness 10000) in paragraph at lines 238--245
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 248.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 249.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
  ) 
 Here is how much of TeX's memory you used:
  4299 strings out of 493315
@@ -270,10 +270,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Output/cv_new.pdf (5 pages, 97671 bytes).
+Output written on Output/cv_new.pdf (5 pages, 97736 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
