@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 54195,
+				"buffer_size": 54344,
 				"line_ending": "Unix"
 			}
 		},
@@ -143,7 +143,7 @@
 			"file": "cv_new.tex",
 			"settings":
 			{
-				"buffer_size": 14359,
+				"buffer_size": 14506,
 				"line_ending": "Windows"
 			}
 		},
@@ -178,7 +178,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 124204,
+				"buffer_size": 125380,
 				"line_ending": "Unix"
 			}
 		},
@@ -434,7 +434,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -442,15 +442,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 54195,
+						"buffer_size": 54344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1549,
-								1578
+								5066,
+								5066
 							]
 						],
 						"settings":
@@ -460,7 +460,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2222.0,
+						"translation.y": 6161.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -488,7 +488,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4257.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -498,15 +498,15 @@
 					"file": "cv_new.tex",
 					"settings":
 					{
-						"buffer_size": 14359,
+						"buffer_size": 14506,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								128,
-								128
+								4880,
+								4880
 							]
 						],
 						"settings":
@@ -516,7 +516,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4367.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -613,15 +613,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 124204,
+						"buffer_size": 125380,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1955,
-								1955
+								1222,
+								1222
 							]
 						],
 						"settings":
@@ -631,7 +631,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2549.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
