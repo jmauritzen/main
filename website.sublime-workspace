@@ -449,8 +449,8 @@
 						"selection":
 						[
 							[
-								1578,
-								1549
+								1094,
+								1463
 							]
 						],
 						"settings":
@@ -460,7 +460,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 48541.0,
+						"translation.y": 1652.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -477,8 +477,8 @@
 						"selection":
 						[
 							[
-								902,
-								939
+								881,
+								1400
 							]
 						],
 						"settings":
@@ -487,8 +487,8 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 810.0,
+						"translation.x": 1.0,
+						"translation.y": 197.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -620,8 +620,8 @@
 						"selection":
 						[
 							[
-								1558,
-								1558
+								1221,
+								1122
 							]
 						],
 						"settings":
@@ -631,7 +631,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1991.0,
+						"translation.y": 1416.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
