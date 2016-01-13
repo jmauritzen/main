@@ -46,6 +46,24 @@
 
 </article> -->
 
+<article id="metropolis_algorithm">
+<h3>Intuition for a Metropolis Algorithm</h3>
+<h3>January 13th, 2015</h3> 
+
+<p>I was reminded recently of my favorite intution for understanding what is going on with the Metropolis Algorithm, which is what lays behind most versions of MCMC that is used in modern Bayesian analysis. The intuition is from John K. Kruschke in the book "Doing Bayesian Data Analysis."</p>
+
+<blockquote>
+<p>Suppose an elected politician lives on a long chain of islands. He is constantly traveling from island to island, wanting to stay in the public eye. At the end of a grueling day of photo opportunities and fundraising,2 he has to decide whether to (i) stay on the current island, (ii) move to the adjacent island to the west, or (iii) move to the adjacent island tothe east. His goal is to visit all the islands proportionally to their relative population, so that he spends the most time on the most populated islands, and proportionally less time on the less populated islands. Unfortunately, he holds his o ce despite having no idea what the total population of the island chain is, and he doesn’t even know exactly how many islands there are! His entourage of advisers is capable of some minimal information gathering abilities, however. When they are not busy fundraising, they can ask the mayor of the island they are on how many people are on the island. And, when the politician proposes to visit an adjacent island, they can ask the mayor of that adjacent island how many people are on that island.</p>
+
+<p>The politician has a simple heuristic for deciding whether to travel to the proposed island: First, he  ips a (fair) coin to decide whether to propose the adjacent island to the east or the adjacent island to the west. If the proposed island has a larger population than the current island, then he de nitely goes to the proposed island. On the other hand, if the proposed island has a smaller population than the current island, then he goes to the proposed island only probabilistically, to the extent that the proposed island has a population as big as the current island. If the population of the proposed island is only half as big as the current island, the probability of going there is only 50%.</p>
+
+<p>In more detail, denote the population of the proposed island as Pproposed, and the population of the current island as Pcurrent. Then he moves to the less populated island with probability pmove=Pproposed/Pcurrent. The politician does this by spinning a fair spinner marked on its circumference with uniform values from zero to one. If the pointed-to value is between zero and pmove, then he moves.</p>
+
+<p>What’s amazing about this heuristic is that it works: In the long run, the probability that the politician is on any one of the islands exactly matches the relative population of the island!</p>
+</blockquote>
+
+</article>
+
 <article id="article_id">
 <h3>Sun, Water and Rain: Where are renewables in the US?</h3>
 <h3>October 30th, 2015</h3> 

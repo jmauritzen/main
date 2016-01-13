@@ -151,7 +151,7 @@
 			"file": "python_resources.html",
 			"settings":
 			{
-				"buffer_size": 4819,
+				"buffer_size": 4917,
 				"line_ending": "Unix",
 				"name": "python_resources.html"
 			}
@@ -178,7 +178,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 126012,
+				"buffer_size": 128546,
 				"line_ending": "Unix"
 			}
 		},
@@ -434,7 +434,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -460,7 +460,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 184.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -511,7 +511,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -526,15 +526,15 @@
 					"file": "python_resources.html",
 					"settings":
 					{
-						"buffer_size": 4819,
+						"buffer_size": 4917,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1364,
-								1364
+								50,
+								50
 							]
 						],
 						"settings":
@@ -613,15 +613,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 126012,
+						"buffer_size": 128546,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1221,
-								1122
+								3743,
+								3553
 							]
 						],
 						"settings":
@@ -631,7 +631,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1416.0,
+						"translation.y": 3238.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
