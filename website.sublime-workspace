@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 54820,
+				"buffer_size": 54840,
 				"line_ending": "Unix"
 			}
 		},
@@ -145,6 +145,15 @@
 			{
 				"buffer_size": 14850,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cv_short.tex",
+			"settings":
+			{
+				"buffer_size": 2829,
+				"line_ending": "Unix",
+				"name": "cv_short.tex"
 			}
 		},
 		{
@@ -434,7 +443,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -442,15 +451,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 54820,
+						"buffer_size": 54840,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2394,
-								2394
+								3324,
+								3324
 							]
 						],
 						"settings":
@@ -460,7 +469,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3748.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -505,8 +514,8 @@
 						"selection":
 						[
 							[
-								3574,
-								3574
+								9928,
+								10988
 							]
 						],
 						"settings":
@@ -516,13 +525,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 8183.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
+					"file": "cv_short.tex",
+					"settings":
+					{
+						"buffer_size": 2829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2062,
+								2062
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cv_short.tex",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2009.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "python_resources.html",
 					"settings":
 					{
@@ -551,7 +587,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "r_resources.html",
 					"settings":
 					{
@@ -580,7 +616,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "data_resources.html",
 					"settings":
 					{
@@ -609,7 +645,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "blog_posts.html",
 					"settings":
 					{
@@ -631,13 +667,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1817.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
@@ -663,7 +699,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "smallscreen.css",
 					"settings":
 					{
@@ -691,7 +727,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "teaching.html",
 					"settings":
 					{
