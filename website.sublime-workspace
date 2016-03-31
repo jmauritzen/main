@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 54840,
+				"buffer_size": 55317,
 				"line_ending": "Unix"
 			}
 		},
@@ -143,7 +143,7 @@
 			"file": "cv_new.tex",
 			"settings":
 			{
-				"buffer_size": 14850,
+				"buffer_size": 15162,
 				"line_ending": "Windows"
 			}
 		},
@@ -443,7 +443,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -451,15 +451,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 54840,
+						"buffer_size": 55317,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3324,
-								3324
+								40447,
+								40447
 							]
 						],
 						"settings":
@@ -469,7 +469,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3748.0,
+						"translation.y": 37685.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -486,8 +486,8 @@
 						"selection":
 						[
 							[
-								881,
-								1400
+								191,
+								191
 							]
 						],
 						"settings":
@@ -496,7 +496,7 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 1.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -507,15 +507,15 @@
 					"file": "cv_new.tex",
 					"settings":
 					{
-						"buffer_size": 14850,
+						"buffer_size": 15162,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9928,
-								10988
+								8323,
+								8323
 							]
 						],
 						"settings":
@@ -525,7 +525,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8183.0,
+						"translation.y": 7615.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -542,8 +542,8 @@
 						"selection":
 						[
 							[
-								2062,
-								2062
+								2043,
+								2043
 							]
 						],
 						"settings":
@@ -552,7 +552,7 @@
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2009.0,
+						"translation.y": 1727.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -791,7 +791,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 210.0
+		"height": 256.0
 	},
 	"output.git-commit":
 	{
