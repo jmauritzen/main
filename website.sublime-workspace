@@ -143,7 +143,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 137965,
+				"buffer_size": 143436,
 				"line_ending": "Unix"
 			}
 		},
@@ -507,25 +507,26 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 137965,
+						"buffer_size": 143436,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2773,
-								2773
+								3870,
+								3870
 							]
 						],
 						"settings":
 						{
+							"spell_check": true,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2605.0,
+						"translation.y": 3793.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
