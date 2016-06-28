@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 55907,
+				"buffer_size": 55956,
 				"line_ending": "Unix"
 			}
 		},
@@ -151,7 +151,7 @@
 			"file": "cv_new.tex",
 			"settings":
 			{
-				"buffer_size": 14512,
+				"buffer_size": 14567,
 				"line_ending": "Windows"
 			}
 		},
@@ -451,15 +451,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 55907,
+						"buffer_size": 55956,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7096,
-								7096
+								9652,
+								9652
 							]
 						],
 						"settings":
@@ -469,7 +469,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7023.0,
+						"translation.y": 10363.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -536,15 +536,15 @@
 					"file": "cv_new.tex",
 					"settings":
 					{
-						"buffer_size": 14512,
+						"buffer_size": 14567,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14121,
-								14121
+								8885,
+								8885
 							]
 						],
 						"settings":
@@ -554,7 +554,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 528.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -581,7 +581,7 @@
 							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1727.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
