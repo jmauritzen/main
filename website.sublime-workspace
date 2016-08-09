@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 56991,
+				"buffer_size": 57089,
 				"line_ending": "Unix"
 			}
 		},
@@ -211,7 +211,7 @@
 			"file": "teaching.html",
 			"settings":
 			{
-				"buffer_size": 1279,
+				"buffer_size": 1444,
 				"line_ending": "Unix",
 				"name": "teaching.html"
 			}
@@ -443,7 +443,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 10,
 			"sheets":
 			[
 				{
@@ -451,15 +451,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 56991,
+						"buffer_size": 57089,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								52038,
-								52038
+								1561,
+								1094
 							]
 						],
 						"settings":
@@ -469,7 +469,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 45709.0,
+						"translation.y": 1686.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -732,15 +732,15 @@
 					"file": "teaching.html",
 					"settings":
 					{
-						"buffer_size": 1279,
+						"buffer_size": 1444,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1011,
-								1011
+								1381,
+								1381
 							]
 						],
 						"settings":
@@ -751,7 +751,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1549.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
