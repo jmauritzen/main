@@ -211,7 +211,7 @@
 			"file": "teaching.html",
 			"settings":
 			{
-				"buffer_size": 1444,
+				"buffer_size": 1439,
 				"line_ending": "Unix",
 				"name": "teaching.html"
 			}
@@ -732,15 +732,15 @@
 					"file": "teaching.html",
 					"settings":
 					{
-						"buffer_size": 1444,
+						"buffer_size": 1439,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1381,
-								1381
+								1398,
+								1398
 							]
 						],
 						"settings":
@@ -751,7 +751,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1549.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
