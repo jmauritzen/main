@@ -151,7 +151,7 @@
 			"file": "cv_new.tex",
 			"settings":
 			{
-				"buffer_size": 14567,
+				"buffer_size": 15094,
 				"line_ending": "Windows"
 			}
 		},
@@ -177,7 +177,7 @@
 			"file": "r_resources.html",
 			"settings":
 			{
-				"buffer_size": 1239,
+				"buffer_size": 1484,
 				"line_ending": "Unix",
 				"name": "r_resources.html"
 			}
@@ -186,7 +186,7 @@
 			"file": "data_resources.html",
 			"settings":
 			{
-				"buffer_size": 12373,
+				"buffer_size": 13633,
 				"line_ending": "Unix",
 				"name": "data_resources.html"
 			}
@@ -211,7 +211,7 @@
 			"file": "teaching.html",
 			"settings":
 			{
-				"buffer_size": 1439,
+				"buffer_size": 1609,
 				"line_ending": "Unix",
 				"name": "teaching.html"
 			}
@@ -443,7 +443,7 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -469,7 +469,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1686.0,
+						"translation.y": 1955.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -514,8 +514,8 @@
 						"selection":
 						[
 							[
-								1444,
-								1444
+								64,
+								64
 							]
 						],
 						"settings":
@@ -536,15 +536,15 @@
 					"file": "cv_new.tex",
 					"settings":
 					{
-						"buffer_size": 14567,
+						"buffer_size": 15094,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								214,
-								214
+								2843,
+								2843
 							]
 						],
 						"settings":
@@ -554,7 +554,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3019.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -620,15 +620,15 @@
 					"file": "r_resources.html",
 					"settings":
 					{
-						"buffer_size": 1239,
+						"buffer_size": 1484,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								52,
-								52
+								1477,
+								1477
 							]
 						],
 						"settings":
@@ -649,15 +649,15 @@
 					"file": "data_resources.html",
 					"settings":
 					{
-						"buffer_size": 12373,
+						"buffer_size": 13633,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1791,
-								1791
+								9044,
+								9044
 							]
 						],
 						"settings":
@@ -668,7 +668,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 12949.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -732,15 +732,15 @@
 					"file": "teaching.html",
 					"settings":
 					{
-						"buffer_size": 1439,
+						"buffer_size": 1609,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1398,
-								1398
+								747,
+								717
 							]
 						],
 						"settings":
@@ -751,7 +751,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1114.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -811,6 +811,10 @@
 		"height": 124.0
 	},
 	"output.latex_log":
+	{
+		"height": 208.0
+	},
+	"output.latextools":
 	{
 		"height": 208.0
 	},
