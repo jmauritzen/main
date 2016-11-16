@@ -143,7 +143,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 146865,
+				"buffer_size": 150695,
 				"line_ending": "Unix"
 			}
 		},
@@ -186,7 +186,7 @@
 			"file": "data_resources.html",
 			"settings":
 			{
-				"buffer_size": 13633,
+				"buffer_size": 13747,
 				"line_ending": "Unix",
 				"name": "data_resources.html"
 			}
@@ -195,7 +195,7 @@
 			"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 63,
+				"buffer_size": 77,
 				"line_ending": "Unix"
 			}
 		},
@@ -507,15 +507,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 146865,
+						"buffer_size": 150695,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								64,
-								64
+								1677,
+								1302
 							]
 						],
 						"settings":
@@ -526,7 +526,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1868.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -649,15 +649,15 @@
 					"file": "data_resources.html",
 					"settings":
 					{
-						"buffer_size": 13633,
+						"buffer_size": 13747,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9044,
-								9044
+								6417,
+								6417
 							]
 						],
 						"settings":
@@ -668,7 +668,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 12949.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -678,7 +678,7 @@
 					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 63,
+						"buffer_size": 77,
 						"regions":
 						{
 						},
