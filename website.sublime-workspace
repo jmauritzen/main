@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 57089,
+				"buffer_size": 57174,
 				"line_ending": "Unix"
 			}
 		},
@@ -168,9 +168,21 @@
 			"file": "python_resources.html",
 			"settings":
 			{
-				"buffer_size": 4917,
+				"buffer_size": 4417,
 				"line_ending": "Unix",
 				"name": "python_resources.html"
+			}
+		},
+		{
+			"contents": "<!-- bayesian_resources.html -->\n\n<html lang=\"en\">\n\n\n<head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>\n\n     <link rel=\"stylesheet\" type=\"text/css\" href=\"smallscreen.css\" media=\"only screen and (max-width: 1000px)\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"website.css\"/>\n\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n        <title>johannes mauritzen's website</title>\n        <meta name=\"viewport\" content=\"width=device-width\">\n</head>\n\n\n\n<body>\n\n<header>\n</header>\n\n<section id=\"main_menu\"> \n<nav> \n    <ul>\n        <li><a href=\"#bio\">bio</a></li>\n        <li><a href=\"#cv\">cv</a></li>\n        <li><a href=\"#research\">research</a></li>\n        <li><a href=\"#resources\">resources</a></li>\n        <li><a href=\"teaching.html\">teaching</a></li>\n        <li><a href=\"blog_posts.html\">simple minded blog</a></li>\n        <li><a href=\"http://jmaurit.github.io/norwayeconomy/\">norway's economy data blog</a></li>\n    </ul>\n</nav>\n</section>\n\n<section id=\"bayesian_resources\">\n<!-- <h2> </h2> --> \n\n\n\n<ul>\n	<h1>Resources for learning applied Bayesian analysis, with a focus on using Python</h1> \n	<h4>Stan MCMC</h4>\n	<li><a href=\"http://mc-stan.org/\">Stan MCMC Software</a></li>\n	<p>Stan MCMC is what you should be using to do your analysis. It is robust, fast, and relatively easy to use. It has interfaces with R, Python, Matlab, and Stata. But come on, get with it, you should be using R or Python.</p>\n\n	<li><a href=\"https://modernstatisticalworkflow.blogspot.no/\">Modern Statistical Workflow</a></li>\n	<p>Jim Savage's blog. Includes a lot of nice posts that use Stan in modelling issues in economics, statistics and machine learning applications. </p>\n\n	<li><a href=\"http://betanalpha.github.io/speaking.html\">Talks by Michael Betancourt</a></li>\n	<p>Betancourt is one of the developers of Stan, and he gives good talks explaining what is going on behind the scenes. Spoiler: it involves some 3-d advanced donut geometry</p>\n\n	<h4>Bayesian analysis with Python</h4>\n\n\n	<li><a href=\"http://arxiv.org/abs/1411.5018\">Frequentism and Bayesianism: A Python-driven Primer</a> <a href=\"http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/\">or blog version</a></li>\n\n	<li><a href=\"https://climateecology.wordpress.com/2014/01/27/pystan-a-basic-tutorial-of-bayesian-data-analysis-in-python/\">Tutorials for Bayesian analysis with PyStan</a></li>\n\n	<li><a href=\"http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb\">Kalman and Bayesian Filtering in Python</a></li>\n\n	<li><a href=\"http://blog.quantopian.com/bayesian-cone/\">Predicting future returns of trading algorithms: Bayesian Cone.</a></li>\n\n	<li><a href=\"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers\">Bayesian analysis in Python</a></li>\n\n	<li><a href=\"http://nbviewer.ipython.org/github/fonnesbeck/Bios366/blob/master/notebooks/Section5_1-Gaussian-Processes.ipynb\">Non-parametric Bayes in Python</a></li>\n\n</ul>\n</section>\n",
+			"file": "bayesian_resources.html",
+			"file_size": 3213,
+			"file_write_time": 1479635805000000,
+			"settings":
+			{
+				"buffer_size": 3211,
+				"line_ending": "Unix",
+				"name": "bayesian_resources.html"
 			}
 		},
 		{
@@ -443,7 +455,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -451,15 +463,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 57089,
+						"buffer_size": 57174,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1561,
-								1094
+								53151,
+								53151
 							]
 						],
 						"settings":
@@ -469,7 +481,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1955.0,
+						"translation.y": 46379.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -526,7 +538,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2236.0,
+						"translation.y": 1541.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -591,15 +603,15 @@
 					"file": "python_resources.html",
 					"settings":
 					{
-						"buffer_size": 4917,
+						"buffer_size": 4417,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								50,
-								50
+								1320,
+								1320
 							]
 						],
 						"settings":
@@ -617,6 +629,33 @@
 				},
 				{
 					"buffer": 6,
+					"file": "bayesian_resources.html",
+					"settings":
+					{
+						"buffer_size": 3211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2159,
+								2159
+							]
+						],
+						"settings":
+						{
+							"auto_name": "bayesian_resources.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2247.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "r_resources.html",
 					"settings":
 					{
@@ -645,7 +684,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "data_resources.html",
 					"settings":
 					{
@@ -674,7 +713,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "/Users/johannesmauritzen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
@@ -700,7 +739,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "smallscreen.css",
 					"settings":
 					{
@@ -728,7 +767,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 11,
 					"file": "teaching.html",
 					"settings":
 					{
