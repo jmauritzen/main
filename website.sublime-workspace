@@ -127,8 +127,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 57455,
+				"buffer_size": 57818,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cv_new.tex",
+			"settings":
+			{
+				"buffer_size": 15666,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -143,16 +151,8 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 161426,
+				"buffer_size": 166993,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "cv_new.tex",
-			"settings":
-			{
-				"buffer_size": 15460,
-				"line_ending": "Windows"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -460,15 +460,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 57455,
+						"buffer_size": 57818,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45728,
-								45728
+								414,
+								414
 							]
 						],
 						"settings":
@@ -478,13 +478,41 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 35989.0,
+						"translation.y": 4659.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "cv_new.tex",
+					"settings":
+					{
+						"buffer_size": 15666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1353,
+								1233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1148.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "website.css",
 					"settings":
 					{
@@ -512,19 +540,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 161426,
+						"buffer_size": 166993,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1274,
-								1274
+								6761,
+								6761
 							]
 						],
 						"settings":
@@ -535,35 +563,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3101.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "cv_new.tex",
-					"settings":
-					{
-						"buffer_size": 15460,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2153,
-								2153
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2228.0,
+						"translation.y": 5438.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -706,7 +706,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2966.0,
+						"translation.y": 3098.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
