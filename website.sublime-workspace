@@ -127,7 +127,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 57818,
+				"buffer_size": 57314,
 				"line_ending": "Unix"
 			}
 		},
@@ -151,7 +151,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 166993,
+				"buffer_size": 172038,
 				"line_ending": "Unix"
 			}
 		},
@@ -195,7 +195,7 @@
 			"file": "data_resources.html",
 			"settings":
 			{
-				"buffer_size": 14990,
+				"buffer_size": 15154,
 				"line_ending": "Unix",
 				"name": "data_resources.html"
 			}
@@ -452,7 +452,7 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -460,15 +460,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 57818,
+						"buffer_size": 57314,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								414,
-								414
+								48187,
+								47636
 							]
 						],
 						"settings":
@@ -478,7 +478,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4659.0,
+						"translation.y": 42813.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -544,15 +544,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 166993,
+						"buffer_size": 172038,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6761,
-								6761
+								1248,
+								1248
 							]
 						],
 						"settings":
@@ -563,7 +563,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5669.0,
+						"translation.y": 1819.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -636,8 +636,8 @@
 						"selection":
 						[
 							[
-								2159,
-								2159
+								34,
+								34
 							]
 						],
 						"settings":
@@ -648,7 +648,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2247.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -687,15 +687,15 @@
 					"file": "data_resources.html",
 					"settings":
 					{
-						"buffer_size": 14990,
+						"buffer_size": 15154,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3591,
-								3591
+								6380,
+								6380
 							]
 						],
 						"settings":
@@ -706,7 +706,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3394.0,
+						"translation.y": 776.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
