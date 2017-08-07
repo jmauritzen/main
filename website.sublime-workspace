@@ -151,7 +151,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 182494,
+				"buffer_size": 184867,
 				"line_ending": "Unix"
 			}
 		},
@@ -452,7 +452,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -478,7 +478,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5064.0,
+						"translation.y": 3629.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -544,15 +544,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 182494,
+						"buffer_size": 184867,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6299,
-								6299
+								2934,
+								2935
 							]
 						],
 						"settings":
@@ -563,7 +563,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5331.0,
+						"translation.y": 1829.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
