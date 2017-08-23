@@ -151,7 +151,7 @@
 			"file": "blog_posts.html",
 			"settings":
 			{
-				"buffer_size": 199846,
+				"buffer_size": 199917,
 				"line_ending": "Unix"
 			}
 		},
@@ -544,15 +544,15 @@
 					"file": "blog_posts.html",
 					"settings":
 					{
-						"buffer_size": 199846,
+						"buffer_size": 199917,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5537,
-								4863
+								1308,
+								1308
 							]
 						],
 						"settings":
@@ -563,7 +563,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4771.0,
+						"translation.y": 1645.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
