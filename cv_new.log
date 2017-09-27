@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  15 MAY 2017 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  26 SEP 2017 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -208,7 +208,7 @@ Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¸ in font cmti10!
 
 [2]
-Overfull \hbox (4.20102pt too wide) in paragraph at lines 147--147
+Overfull \hbox (4.20102pt too wide) in paragraph at lines 149--149
 []\OT1/cmr/bx/n/10 PRESENTATIONS  
  []
 
@@ -217,43 +217,43 @@ Missing character: There is no â in font cmti10!
 Missing character: There is no € in font cmti10!
 Missing character: There is no “ in font cmti10!
 
-Overfull \hbox (1.6177pt too wide) in paragraph at lines 210--211
+Overfull \hbox (1.6177pt too wide) in paragraph at lines 212--213
 []\OT1/cmr/m/n/10 Arild Huit-feldt og Torgeir Persen, NHH. \OT1/cmr/m/it/10 Re-
 alop-sjon-s-anal-yse av Vin-d-kraftverk
  []
 
 
-Overfull \hbox (1.79004pt too wide) in paragraph at lines 212--213
+Overfull \hbox (1.79004pt too wide) in paragraph at lines 214--215
 []\OT1/cmr/m/n/10 Arve Tun-dal and Mari Hougsn^^Zs, NHH. \OT1/cmr/m/it/10 Kost-
 nad-s-anal-yse: Hy-dro Alu-minium
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 223--226
+Underfull \hbox (badness 10000) in paragraph at lines 225--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--231
+Underfull \hbox (badness 10000) in paragraph at lines 230--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--237
+Underfull \hbox (badness 10000) in paragraph at lines 235--239
 
  []
 
 
-Overfull \hbox (1.45103pt too wide) in paragraph at lines 244--244
+Overfull \hbox (1.45103pt too wide) in paragraph at lines 246--246
 []\OT1/cmr/bx/n/10 PROGRAMMING  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 262.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 260.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 262.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 262.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 262.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 262.
  ) 
 Here is how much of TeX's memory you used:
  4294 strings out of 493089
@@ -262,13 +262,13 @@ Here is how much of TeX's memory you used:
  7805 multiletter control sequences out of 15000+600000
  5067 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,21p,335b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,335b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_new.pdf (5 pages, 98238 bytes).
+Output written on cv_new.pdf (5 pages, 98917 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
