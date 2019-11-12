@@ -7,11 +7,11 @@
         background-repeat:no-repeat;
         background-position:center top;
         background-attachment:fixed;*/
-                         
+
             }
 
 
-        p.abstract{font-style:italic;}  
+        p.abstract{font-style:italic;}
 
         header {
 
@@ -21,9 +21,9 @@
             margin: 5% 20%;
         }
 
-        a:link{color:black;text-decoration:none;border-bottom-style:dotted; 
-            border-bottom-width: thin;border-bottom-color: grey;} 
-        a:visited{color:black;text-decoration:none;border-bottom-style:dotted; 
+        a:link{color:black;text-decoration:none;border-bottom-style:dotted;
+            border-bottom-width: thin;border-bottom-color: grey;}
+        a:visited{color:black;text-decoration:none;border-bottom-style:dotted;
             border-bottom-width: thin;border-bottom-color: grey;}
         a:hover{color:grey;text-decoration:none;}
         a:active{color:blue;text-decoration:none;}
@@ -32,16 +32,17 @@
         #main_menu {
         position: fixed;
         float: left;
+        z-index: 1;
         }
         #main_menu ul {
         list-style-type:none;
         padding: 0;
         margin: 50px 0 0 10px;
-        }   
+        }
 
         #main_menu ul li {
-        
- 
+
+
         }
 
         #main_menu ul li a{
@@ -70,24 +71,24 @@
 
         ul ul {
             margin: 0 0 5 0%;
-            } 
+            }
         li {
             margin: 1 1 1 0em;
         }
 
 
 
-     
+
 
         h2  {
             color:383838;
             font-size:1em;
             padding:500 0 100 0%;
-            margin: 100 0 150 0%; 
+            margin: 100 0 150 0%;
             /*padding:500 0 50 0px;
             margin:100 0 100 0px;*/
             opacity:60%;
-            
+
         }
 
         h1 a:link, h2 a:link {
@@ -103,8 +104,8 @@
 
 
         h2 ul {
-           
-        }  
+
+        }
 
         section#cover h2{
             background-image:url('title_photo.jpg');
@@ -146,7 +147,7 @@
             max-width: 100%;
             }
 
-       
+
         h3{
             margin:0 0 0 0%;
             }
@@ -155,7 +156,7 @@
         h4 {font-size:1.1em;
             font-weight: bold;
             margin:0 0 0 0%;
-            
+
         }
 
         h5{
@@ -166,8 +167,8 @@
         article {
             margin-left:20%;
             margin-right:20%;
-            margin-top:5%; 
-            margin-bottom:5%; 
+            margin-top:5%;
+            margin-bottom:5%;
         }
 
 
