@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.4)  1 DEC 2019 07:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.4)  13 JAN 2020 10:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -187,26 +187,26 @@ Missing character: There is no ¸ in font cmti10!
 Missing character: There is no Ã in font cmti10!
 Missing character: There is no ¸ in font cmti10!
  [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 223--226
+Underfull \hbox (badness 10000) in paragraph at lines 226--229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--231
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--237
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 257.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 260.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
  ) 
 Here is how much of TeX's memory you used:
  4293 strings out of 492985
@@ -217,7 +217,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  29i,4n,21p,334b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_new.pdf (4 pages, 74907 bytes).
+Output written on cv_new.pdf (4 pages, 75046 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1575180571 "cv_new.tex" "cv_new.pdf" "cv_new" 1575180572
+["pdflatex"] 1578909040 "cv_new.tex" "cv_new.pdf" "cv_new" 1578909041
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
@@ -27,7 +27,7 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1515069161 4130801 54e9357d16eb92ce30f5eded601daee7 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "cv_new.aux" 1512933203 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv_new.tex" 1575180563 16175 8eee6698bce98ff28f076d13c1d5f695 ""
+  "cv_new.tex" 1578909035 16493 458fafa7e00b8168cb4b3db0de1aa665 ""
   "res.cls" 1512933203 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   (generated)
   "cv_new.pdf"
